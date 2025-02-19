@@ -1,4 +1,5 @@
 import spotipy
+import time
 from spotipy.oauth2 import SpotifyClientCredentials
 import csv
 
@@ -9,10 +10,10 @@ client_secret = 'b7feadc83dd246d4910c9caa7c27af6c'
 #  Authenticate the client with your credentials
 credentials = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
 sp = spotipy.Spotify(client_credentials_manager=credentials)
-checked_artists = set()    # Creo el set de artistas ya comprobados
-not_checked_artists = set() # Creo el set de artistas descubiertos pero no comprobados
 
-def get_artist_data(artist_name, depth, current_depth=0, visited_artists=set()):
+
+def get_artist_data(artist_name, depth, current_depth=0, checked_artists=set(), unchecked_artists=set(), nodos={}, aristas={}):
+
     # Even though the maximum depth level has been reached, it is mandatory to process leaf nodes in order to store its information!!
 
     # Search for artist name
@@ -26,9 +27,10 @@ def get_artist_data(artist_name, depth, current_depth=0, visited_artists=set()):
     artist_id = artist['id']
     artist_name = artist['name']
     print(f'Procesando: {artist_name}...')
-    if artist_id in visited_artists:  # Artist already visited, skip processing
+    if artist_id in checked_artists:  # Artist already visited, skip processing
         return
-    visited_artists.add(artist_id)
+    checked_artists.add(artist_name )
+    nodos[artist_id]=artist_name
 
     # Artist data
     artist_data = {
@@ -56,27 +58,48 @@ def get_artist_data(artist_name, depth, current_depth=0, visited_artists=set()):
     # Obtengo los albumes del artista indicado
     results = sp.artist_albums(artist_id, album_type='album')
     albums = results['items']
-
+    time.sleep(1)
     for album in albums:                                            # BUCLE: Para cada album del artista
         album_aux = sp.album(album['uri'])                          #        obtengo mediante su URI (identificador) toda la información del album
+        time.sleep(0.1)
         tracks = album_aux['tracks']['items']                       #        para ese album obtengo su listado de canciones
         for track in tracks:                                        #   BUCLE: Para cada canción del listado
             for artist in track['artists']:                         #       BUCLE: Para cada artista del listado de artistas de cada canción
                 if 'name' in artist:                                #              miro si existe la propiedad nombre
-                    if artist['name'] not in not_checked_artists:    #              compruebo que no haya comprobado ese artista anteriormente
+                    if artist['name'] not in unchecked_artists:     #              compruebo que no haya comprobado ese artista anteriormente
                         if artist['name'] not in checked_artists:    
-                            print('\t' + artist['name'])            #              (DEPURACIÓN)lo imprimo por pantalla
-                            checked_artists.add(artist['name'])     #              lo añado al set de artistas ya comprobados
+                            #print('\t' + artist['name'])            #              (DEPURACIÓN)lo imprimo por pantalla
+                            unchecked_artists.add(artist['name'])   #              lo añado al set de artistas ya comprobados
+                            aristas[artist_id] = artist['id']
+    #print(f'\nHECHO. Artistas visitados + ({artist_name}): {len(checked_artists)} {checked_artists}')
+    #print(f'HECHO. Artistas no visitados {len(unchecked_artists)}   {unchecked_artists}')
+    print(nodos)
+    print(aristas)
+    if len(nodos) < 3000:
+        get_artist_data(unchecked_artists.pop(), depth=depth, checked_artists=checked_artists, unchecked_artists=unchecked_artists, nodos=nodos, aristas=aristas)   
 
-    checked_artists.add(artist)
-    # sacar de not_checked_artist un artista y este pasarlo por la funcion recursiva
-    get_artist_data(next_artist, depth=depth, visited_artists=visited_artist)
     ########################################################
 
 # Start the search process
 artist_name = "Lola Indigo"  # Change this to your favorite artist
 depth = 2  # Be careful with Spotify API Limits!!
-visited_artist = set()
-get_artist_data(artist_name, depth=depth, visited_artists=visited_artist)
 
-print(f'HECHO. Artistas visitados: {len(visited_artist)}')
+checked_artists = set()    # Creo el set de artistas ya comprobados
+unchecked_artists = set()  # Creo el set de artistas descubiertos pero no comprobados
+
+fichero_nodos = "nodos.csv"
+fichero_aristas = "aristas.csv"
+
+nodos = {}
+aristas = {}
+get_artist_data(artist_name, depth=depth, checked_artists=checked_artists, unchecked_artists=unchecked_artists, nodos=nodos, aristas=aristas)
+
+with open(fichero_nodos,'w') as f:
+    w = csv.writer(f)
+    w.writerows(nodos.items())
+
+with open(fichero_aristas,'w') as f:
+    w = csv.writer(f)
+    w.writerows(aristas.items())
+
+
