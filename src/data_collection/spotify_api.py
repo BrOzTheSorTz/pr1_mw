@@ -1,6 +1,6 @@
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
-from utils.config import SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REDIRECT_URI
+from ..utils.config import SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REDIRECT_URI
 
 class SpotifyClient:
     def __init__(self):
@@ -28,6 +28,8 @@ class SpotifyClient:
         """Obtiene las canciones de un álbum."""
         results = self.sp.album_tracks(album_id)
         return results["items"] if "items" in results else []
+
+
     
     def get_album_collaborator(self,album):
         """Obtiene los colaboradores en formato id-name dado un album"""
