@@ -11,7 +11,7 @@ class SpotifyClient:
         ))
 
     def search_artist(self,artist_name):
-        """Obtenemos el id del nombre del artista pasado"""
+        """Obtenemos el artista del nombre del artista pasado"""
         # Search for artist name
         result = self.sp.search(q='artist:' + artist_name, type='artist')
         items = result['artists']['items']
@@ -20,10 +20,7 @@ class SpotifyClient:
 
         # Get only the first result
         artist = items[0]
-        artist_id = artist['id']
-        artist_name = artist['name']
-        print(f'Procesando: {artist_name}...')
-        return artist_id
+        return artist
 
     def get_artist_top_tracks(self, artist_id, country="US"):
         """Obtiene las 10 canciones más populares de un artista."""
