@@ -1,14 +1,29 @@
 import spotipy
-from spotipy.oauth2 import SpotifyOAuth
-from ..utils.config import SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REDIRECT_URI
+from spotipy.oauth2 import SpotifyClientCredentials
+from ..utils.config import SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET,SPOTIFY_REDIRECT_URI
 
 class SpotifyClient:
     def __init__(self):
-        self.sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
+
+        self.sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(
             client_id=SPOTIFY_CLIENT_ID,
-            client_secret=SPOTIFY_CLIENT_SECRET,
-            redirect_uri=SPOTIFY_REDIRECT_URI
+            client_secret=SPOTIFY_CLIENT_SECRET
         ))
+
+    def search_artist(self,artist_name):
+        """Obtenemos el id del nombre del artista pasado"""
+        # Search for artist name
+        result = self.sp.search(q='artist:' + artist_name, type='artist')
+        items = result['artists']['items']
+        if not items:
+            return
+
+        # Get only the first result
+        artist = items[0]
+        artist_id = artist['id']
+        artist_name = artist['name']
+        print(f'Procesando: {artist_name}...')
+        return artist_id
 
     def get_artist_top_tracks(self, artist_id, country="US"):
         """Obtiene las 10 canciones más populares de un artista."""
