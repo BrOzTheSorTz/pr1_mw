@@ -6,10 +6,10 @@ if __name__ == "__main__":
 
     spotify = SpotifyClient()
     max_artist = 1500
-    max_deep = 4
+    max_deep = 2
     scrapper = DataScraper(spotify,max_artist,max_deep)
 
-    scrapper.search_collaborator_deep("Lola Indigo")
+    scrapper.search_collaborator_deep("ROSALÍA")
 
 
 

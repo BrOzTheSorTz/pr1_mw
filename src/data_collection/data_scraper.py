@@ -8,6 +8,7 @@ class DataScraper:
     def __init__(self,spotify_client, max_artists=5, max_depth=2):
 
         self.max_artists = max_artists
+        self.artists_processed = 0
         self.max_depth = max_depth
         self.spotify = spotify_client
 
@@ -77,20 +78,22 @@ class DataScraper:
             # Guardamos nuevamente el DataFrame actualizado
             nodes_df.to_csv(nodes_path, index=False)
 
-    def deep_search(self,name_artist, deep=0, num_artist=0, visited=None):
+    def deep_search(self,name_artist, deep=0, visited=None):
+        print(f"Searching {name_artist}.... Deep: {deep}, Num Artist: {self.artists_processed}")
+        self.artists_processed += 1
         if visited is None:
             visited = set()
 
-        if deep >= self.max_depth or num_artist >= self.max_artists or name_artist in visited:
+        if deep >= self.max_depth or self.artists_processed >= self.max_artists or name_artist in visited:
             return
 
         visited.add(name_artist)
         collaborators = self.obtain_collaborators(name_artist)
-        num_artist += 1
 
         for _, name in collaborators.items():
-            self.deep_search(name, deep + 1, num_artist, visited)
+            self.deep_search(name, deep + 1, visited)
 
 
     def search_collaborator_deep(self,name_artist):
-        self.deep_search(name_artist)
+        artist = self.spotify.search_artist(name_artist)
+        self.deep_search(artist['name'])
