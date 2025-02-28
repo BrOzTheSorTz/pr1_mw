@@ -1,17 +1,772 @@
 id,label,followers,genres,popularity,image_url
-7ltDVBr6mKbRvohxheJ9h1,ROSALÍA,8448451,latin,77,https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49
-1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,100589796,,97,https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae
-2p4aN0Uxkk3iT3HK0cJ2cJ,Tokischa,1424135,"dembow, neoperreo",70,https://i.scdn.co/image/ab6761610000e5ebef5f39dfc3f133ab974dbf3b
-37230BxxYs9ksS7OkZw3IU,Chencho Corleone,1556719,reggaeton,76,https://i.scdn.co/image/ab6761610000e5eb7ab9ab65a8d38cad451d3417
-5qjnPRE33rMgYAxIjGUrI7,Ralphie Choo,87603,,58,https://i.scdn.co/image/ab6761610000e5ebe5e11dc0527e5f010bfaf9b4
-5L1lO4eRHmJ7a0Q6csE5cT,LISA,11136729,k-pop,80,https://i.scdn.co/image/ab6761610000e5eb5cd3b3af8b72e32be78571ec
-7w29UYBi0qsHi5RTcv3lmA,Björk,2275213,"art pop, trip hop",63,https://i.scdn.co/image/ab6761610000e5ebaeb5c04fdd8ec6273850d207
+1EXjXQpDx2pROygh8zvHs4,Melendi,4292630,"flamenco, flamenco pop",74,https://i.scdn.co/image/ab6761610000e5eb69b92908b14aa8f0b4cd175d
+7qAoXV4U0qDxQAUqhszjAA,Manuel Carrasco,2303190,"flamenco, flamenco pop",66,https://i.scdn.co/image/ab6761610000e5ebeaf21781694ed65b54eede9f
+6UelqIK8qwhWFc2f6nSEh8,Niña Pastori,810996,"flamenco, flamenco pop",58,https://i.scdn.co/image/ab6761610000e5ebe0b99081b685f47f62d67fa0
+4V8Sr092TqfHkfAA5fXXqG,Luis Fonsi,10769957,latin,74,https://i.scdn.co/image/ab6761610000e5eb2620d7e19f51d9c4b7e853ce
+28gNT5KBp7IjEOQoevXf9N,Camilo,19841155,colombian pop,80,https://i.scdn.co/image/ab6761610000e5eb4d8a681290f905bc52a05c5c
+1r4hJ1h58CWwUQe3MxPuau,Maluma,36101328,"reggaeton, latin, urbano latino",85,https://i.scdn.co/image/ab6761610000e5eba9bc74fbec09e03f06cddf44
+0UWZUmn7sybxMCqrw9tGa7,Juanes,5178908,"latin pop, colombian pop, rock en español",76,https://i.scdn.co/image/ab6761610000e5eb330d24db775125dcec2c7b4c
+3skUHmTNpFUxTZaVxgvhF7,Raimundo Amador,56185,"flamenco, flamenco pop",36,https://i.scdn.co/image/ab67616d0000b273e59eb781f69d88f781b589e4
+5kSJMVPcTITrSZxTrHllVN,Vanesa Martín,1185755,"flamenco pop, flamenco",62,https://i.scdn.co/image/ab6761610000e5eb442b771d03a03c43971e5072
+0BwjxWHTct80Qp5Xk7pxZj,Miguel Poveda,199919,"flamenco, flamenco pop, fado",48,https://i.scdn.co/image/ab6761610000e5ebd36e8a62ee2ea273cbe95a23
+5sqVBfJ96nXdHOG7jiWvKh,Josemi Carmona,9021,flamenco,47,https://i.scdn.co/image/ab6761610000e5eb98138ca670c6eb64332b7ec0
+2sqLufugaIo6ZbCqc6mFGP,Ainhoa Arteta,11554,,19,https://i.scdn.co/image/ab6761610000e5eb74689004e663272deaa0b194
+5x0cKaQOnhjtdeZMVpd8oH,ArtisteThot,5,,0,https://i.scdn.co/image/ab67616d0000b2733df2e5eba844fc535a9f1094
+66ihevNkSYNzRAl44dx6jJ,Carin Leon,15020148,"banda, norteño, sierreño, corrido, grupera, ranchera, sad sierreño, música mexicana",85,https://i.scdn.co/image/ab6761610000e5eb374620b17c4a16d8c99f2369
+5C4PDR4LnhZTbVnKWXuDKD,Morat,12844385,"colombian pop, latin pop",81,https://i.scdn.co/image/ab6761610000e5eb300488e7d301023f9d92d6cc
+4boI7bJtmB1L3b1cuL75Zr,Mon Laferte,8523186,"latin alternative, latin indie",76,https://i.scdn.co/image/ab6761610000e5ebee4670df9b7112ff94b0eb6a
+6IdtcAwaNVAggwd6sCKgTI,Zoé,6732587,"rock en español, mexican rock, mexican indie, latin alternative, latin indie, latin rock",73,https://i.scdn.co/image/ab6761610000e5eb2a7f6c818d24ac776151aefc
+796OSRuB0E9Hq55uTFL9U8,Raphael,956117,,60,https://i.scdn.co/image/ab6761610000e5eb96822478799640119e30628a
+6oaqXcTI16QinRDKLtkMaI,David DeMaría,219744,"flamenco pop, flamenco",44,https://i.scdn.co/image/ab6761610000e5eb4f8f327ccb6ed41c9f91dbb9
+1CWfLlYFee5DaOvGAAbjNv,Diego Carrasco,26050,"flamenco, flamenco pop",36,https://i.scdn.co/image/ab67616d0000b273192b0496f6e53128e4c8d480
+6FOpWOxsjQxKEbLiJpU1xV,India Martinez,1022165,"flamenco, flamenco pop",62,https://i.scdn.co/image/ab6761610000e5ebe276b05a36b55befe4791f3c
+2hRgsNuAo7lhUqmrl25WD5,The Artist Ren,1400,,24,https://i.scdn.co/image/ab6761610000e5ebb604a6798902efab5cb8ad91
+7oeyEGN0XiJUynY5Zit8Gu,St3r10,473,,5,https://i.scdn.co/image/ab6761610000e5ebedb93e6a24a84de2b9dad967
+4hRRLxPluhSwY9pwayJiBp,Malte Schlake,16,,2,https://i.scdn.co/image/ab6761610000e5eb019e563d500926a0fc6ccf10
+4GV4Ftpx1owKKokpxlzAg3,Jack Knox,123,,6,https://i.scdn.co/image/ab6761610000e5ebf383085d300a687ab0f1e2ef
+5gOJTI4TusSENizxhcG7jB,David Bisbal,4699753,latin pop,70,https://i.scdn.co/image/ab6761610000e5eb8ff3fe15657621b43b5acc1d
+0qNxyg3R90E71P2zC2kLCl,Rosa López,25710,,31,https://i.scdn.co/image/ab6761610000e5ebf5ff7d36ead2fca7e7692e66
+4uyqaioPEdClDxU6zvYlAZ,Pablo López,844067,,59,https://i.scdn.co/image/ab6761610000e5eb5258df18c925434ed930af3a
+61qfSv4evYu82cqyJ7SRYn,José del Tomate,2805,flamenco,23,https://i.scdn.co/image/ab67616d0000b273f5a9c32da6a11b0a1b68eca1
+2urF8dgLVfDjunO0pcHUEe,Alvaro Soler,1774723,,64,https://i.scdn.co/image/ab6761610000e5eb1d839fecf34bb98ec13ca4bd
+7eLcDZDYHXZCebtQmVFL25,Aitana,3196889,,74,https://i.scdn.co/image/ab6761610000e5eb6872414f0e8384ca856e2ec8
+3nlpTZci9O5W8RsNoNH559,Juan Luis Guerra 4.40,5769942,"merengue, bachata, salsa",75,https://i.scdn.co/image/ab6761610000e5eb36e73aaa27c05d08a125d38d
+5pKCCKE2ajJHZ9KAiaK11H,Rihanna,65724780,,91,https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789
+5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,25606854,,82,https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32
+3tJnB0s6c3oXPq1SCCavnd,Marco Antonio Solís,7889388,"grupera, mariachi, ranchera, latin pop",76,https://i.scdn.co/image/ab6761610000e5eb9d818606c2582549402ca755
+0XwVARXT135rw8lyw1EeWP,Christian Nodal,15622543,"banda, ranchera, mariachi, norteño, música mexicana, grupera",78,https://i.scdn.co/image/ab6761610000e5eb987de2d53ee07fed17d0e464
+2MRBDr0crHWE5JwPceFncq,Juan Gabriel,9640446,"mariachi, ranchera, música mexicana, bolero",75,https://i.scdn.co/image/ab6761610000e5eb41b8c9e933cb0ea8ea8b68ed
+7vXDAI8JwjW531ouMGbfcp,TINI,8740898,latin pop,76,https://i.scdn.co/image/ab6761610000e5eb4a8ba36738058bdccead8cb1
+07YUOmWljBTXwIseAUd9TW,Sebastian Yatra,23664334,"colombian pop, reggaeton, latin",79,https://i.scdn.co/image/ab6761610000e5eb0b9d2cce6f096d2d19f2ee23
+5dbaLmK5SHLLg8Z4CcTJpX,Greeicy,7657148,"colombian pop, pop urbano",70,https://i.scdn.co/image/ab6761610000e5eb883417fb517d308ebc76ba06
+6sq1yF0OZEWA4xoXVKW1L9,Alejandro Fernández,8146467,"mariachi, ranchera, latin pop, bolero",76,https://i.scdn.co/image/ab6761610000e5eb452691cfa37fdd5b3417ed0d
+1ackd5XprZEkH3McKbQD51,Juan Magán,1696507,"reggaeton, latin",68,https://i.scdn.co/image/ab6761610000e5eb9bff446a54ba1ca20ddbb001
+4xFUf1FHVy696Q1JQZMTRj,Carrie Underwood,6066351,country,71,https://i.scdn.co/image/ab6761610000e5eb6d81a16f9d1b2abf04e765a6
+5F8vogyroqA36mExBfM52B,Sandy & Papo,288124,merengue,49,https://i.scdn.co/image/ab67616d0000b273969ae12f34107d04f8f366fa
+1ADdpen72RPuafRcv0YRBf,Antonio Orozco,1419860,"flamenco, flamenco pop",62,https://i.scdn.co/image/ab6761610000e5eb23f9ce2aead0e8b856732a06
+7K9rdoOJSiKXoVXPlSkGKT,Paty Cantú,2488903,latin pop,63,https://i.scdn.co/image/ab6761610000e5eb4142597445e5b6946947fc79
+5JfkzRrPKWcMQenALP3UKL,Cuca Roseta,33922,fado,30,https://i.scdn.co/image/ab6761610000e5eb2d035bdcebbc01730eb13ba1
+2DmYtFBKcxb3ajwWWgA576,Emmanuel,3179742,latin pop,70,https://i.scdn.co/image/ab6761610000e5eb128b34791dda79758d039ee9
+5w2IPyEGnvrxx9htv4MWa2,Dee Wayne,20770,afro adura,33,https://i.scdn.co/image/ab6761610000e5eb4807c2c8c8863b1cda3dc5ea
+6nh96lsvDLuCVpgpfjeYnM,Pastora Soler,414469,"flamenco pop, flamenco",50,https://i.scdn.co/image/ab6761610000e5eb99398bb470e3f565c0a0ddac
+5ex40YPLrwqU1Yr6ApCKhr,Artista Rosario,6742,reggaeton,16,https://i.scdn.co/image/ab6761610000e5eb9bdd3fade44815d28e0506c8
+3fjrh0cznfzwqjfS9LrPj5,Operacion Triunfo 2006,3206,,11,https://i.scdn.co/image/ab67616d0000b2730d624be247c28c92fd12fb20
+3EBRANWwnViQuBrImN61Z1,Pixie Lott,954655,,46,https://i.scdn.co/image/ab6761610000e5eb4e491d0eb96856a5bd135f3c
+4bYwbb6k4ujHD2NXRxSwRP,Robbie Rivera,47776,"tribal house, latin house, house, piano house",42,https://i.scdn.co/image/ab6761610000e5eb5570206c30efddc126c557f7
+7usNAsVO4wRacexNqbzi2n,Jose Miguel Velasquez,3,,0,
+4uo8Bp99zyj8HQW1ynweoY,Vicente Amigo,123303,"flamenco, flamenco pop",48,https://i.scdn.co/image/38abc1101c820e8f8ffb897db7eb822e3a1f2f04
+1wZtkThiXbVNtj6hee6dz9,Wisin & Yandel,8231601,"reggaeton, urbano latino",79,https://i.scdn.co/image/ab6761610000e5ebb5496c4b788e181679069ee8
+3wxFXeuHQEq4NubZunCIMe,Tomatito,101295,"flamenco, latin jazz",56,https://i.scdn.co/image/6274e4e555e37cde2a065bf57c62a7d851438ec0
+1QbKnLuatJMdjY8dFx7Nru,Nesty La Mente Maestra,3968,,28,https://i.scdn.co/image/ab6761610000e5eb790255750d843cd2230f70ad
+5yJLjTAWKNrIO0MJVBRTZA,"Víctor ""El Nasi""",150,,23,
+2QPvWI9lmh5pmbqySMQux5,José Gómez,73,,23,https://i.scdn.co/image/ab67616d0000b273bb57fa16c98b2157d49921d6
+340O8IdnPypHteCD0Z5DPL,Joana Zimmer,4349,,23,https://i.scdn.co/image/ab67616d0000b273a28cb708c0d6d946d35a5a98
+0i3ypO6G38iZmANDHWZxlY,Chenoa,431704,,45,https://i.scdn.co/image/ab6761610000e5eb5a741503e3248116ca837ae1
+5xSx2FM8mQnrfgM1QsHniB,Danna Paola,5050483,,70,https://i.scdn.co/image/ab6761610000e5eb59b79097fcde8799fe8ce71b
+73Np75Wv2tju61Eo9Zw4IR,Idina Menzel,538078,musicals,72,https://i.scdn.co/image/ab6761610000e5eb6e39cafa090a7f726177bbf7
+6nXmnBpdFvzImqLQb3HBa9,Adam Trigger,3236,,32,https://i.scdn.co/image/ab6761610000e5ebf88e0a280f76e97c250d0354
+0ocHleb3SllGNQQcDH35Xz,Herencia De Grandes,431387,"corrido, corridos bélicos, corridos tumbados",71,https://i.scdn.co/image/ab6761610000e5eb95f04ebb08238e8e0cbb050e
+15jrieCvf3EklAScnD9kKl,Sak Noel,133798,moombahton,50,https://i.scdn.co/image/ab6761610000e5ebb5b733f14ff1b4f526ef7dac
+1nwjHzOUQZsNYX8xoWiGVC,Funzo & Baby Loud,251430,,56,https://i.scdn.co/image/ab6761610000e5eb50378524e65b6227a8c9710f
+6GP540ZTiOPTz8uI76k43u,Paranoid 1966,19276,,29,https://i.scdn.co/image/ab6761610000e5eb76b5770bf687aea59afed34c
+60uh2KYYSCqAgJNxcU4DA0,Hombres G,4730626,"rock en español, latin rock, mexican rock",70,https://i.scdn.co/image/ab6761610000e5ebf00d7551907825539d1dc034
+6tvDaHOPNWfkc9Q8IghqSR,Walls,145075,,57,https://i.scdn.co/image/ab6761610000e5ebd064bfc1ee33e1fcd49ada64
+1cMiNxpdh0mP5WFnPvr4xf,Parkineos,75853,"tekno, techno, hardcore techno, hardcore",48,https://i.scdn.co/image/ab6761610000e5ebb7f22c7299f8d203b57579cd
+7D62OQfwvslnxJn9DkZm2F,Pole.,181673,,54,https://i.scdn.co/image/ab6761610000e5eb8f5b61e3b06b4f6ec3766913
+67TDVqPf5B8RQzCg2yZpBk,Lionware,48977,,41,https://i.scdn.co/image/ab6761610000e5ebf135d528942a3a04fd2ae0c4
+5LjJKCDSZ8bXY6OLXrzNZ4,Nico Flow,97,,24,https://i.scdn.co/image/ab6761610000e5ebb3513865d9f278975a45786b
+6qHDnHoUlA5AhDNg7AHRS9,Luisaker,62714,,38,https://i.scdn.co/image/ab6761610000e5eb237caf741f8d3a3d22e5a03e
+0b4SMSHPAmdiHnMQG9uG7r,CRONO$,5257,,18,https://i.scdn.co/image/ab6761610000e5ebf06b5961c1a7ec83ab8357ac
+7hIqJfRYGBWWT1Qxu6Cpd2,Andy Rivera,3047471,"reggaeton, popular colombian music, trap latino",66,https://i.scdn.co/image/ab6761610000e5ebf638f8db9136610f8f2e8b29
+4QVBYiagIaa6ZGSPMbybpy,Pedro Capó,1671004,"latin pop, latin",67,https://i.scdn.co/image/ab6761610000e5eb4d3bdb12e5ac3ef6dbbefdfa
+2gKYxTUOqw9aPt7ljMwSHT,Orishas,506340,"latin hip hop, latin alternative, latin, son cubano",55,https://i.scdn.co/image/ab6761610000e5eb7e923c09c4a58aeafdeb30ab
+3MHaV05u0io8fQbZ2XPtlC,Prince Royce,8306796,"bachata, latin, bachata pop",75,https://i.scdn.co/image/ab6761610000e5eb63565a99444e6c03695bf8f7
+6HTUcOExehqydqa7C3usAa,Abel Pintos,3560188,"folklore argentino, cuarteto",68,https://i.scdn.co/image/ab6761610000e5ebed3c0fe69973844abf831b51
+7qG3b048QCHVRO5Pv1T5lw,Enrique Iglesias,11474740,"latin pop, latin",78,https://i.scdn.co/image/ab6761610000e5eb4fa1405802a42c665b0f2dd1
+2URqJkDiySO0FRiAUq75FV,Rachid Taha,184162,"raï, gnawa",47,https://i.scdn.co/image/ab6761610000e5eb05a5ecbc3588ddaf8d74902a
+4ByxGModIR7nXk4ZaVFdfO,Pitingo,141024,"flamenco, flamenco pop",49,https://i.scdn.co/image/ab6761610000e5eb3d5b4c88d621f63911bb3682
+0YSFc6ZjqSYIZnHQGBzBcF,Paulo Gonzo,72096,fado,39,https://i.scdn.co/image/ab6761610000e5eb419a91c44615738317695474
+39yVoqm6sYFvvqF1RciUVf,Carlos Rivera,4799321,latin pop,71,https://i.scdn.co/image/ab6761610000e5eb8c023a13a5a28bc29cc30ed4
+4NEYQeEYBUjfaXgDQGvFvu,Franco De Vita,5858132,latin pop,68,https://i.scdn.co/image/ab6761610000e5eb21fb9c2d53162906b9c23035
+5ZqnEfVdEGmoPxtELhN7ai,Estopa,2219121,"flamenco, flamenco pop",69,https://i.scdn.co/image/ab6761610000e5ebfc35d983d1fd3469013ee1ab
+4uoz4FUMvpeyGClFTTDBsD,Ricardo Montaner,6637775,latin pop,68,https://i.scdn.co/image/ab6761610000e5eb91339e0fcfee3aebb5306406
+3heR1it0slFXjaa7E62zpw,Maldita Nerea,608854,,53,https://i.scdn.co/image/ab6761610000e5eb501a7e548e27006fb0292e1c
+0hCyHc3Gi8pDKjyK20qp1t,Salvador Beltran,12652,flamenco pop,20,https://i.scdn.co/image/f863aecd85989e23bbdf034c4786f3970ecae41d
+0wjmKODfAPpZUNgUfL9VIi,Paco Fernandez,2630,,16,https://i.scdn.co/image/ab67616d0000b273f0418ee79a3cef9fbb9dd48d
+41qil2VaGbD194gaEcmmyx,Will Smith,1061957,,66,https://i.scdn.co/image/ab6761610000e5ebed2ac32344707185c1a7d148
+07vycW8ICLf5hKb22PFWXw,Marcin Przybyłowicz,83047,"medieval, soundtrack",58,https://i.scdn.co/image/ab6761610000e5ebf1e54d1ce1d7cc63560ecc11
+0c173mlxpT3dSFRgMO8XPh,Big Sean,11378587,,76,https://i.scdn.co/image/ab6761610000e5eb3d5b14b45d4c3d10d23b03ff
+4RtafAAxXiQtMI9yZs5DCv,OBanga,283,,38,
+4MoCPQEZqegox8Ng6SUGrb,PM Artist Sessions Project,667,classical,25,https://i.scdn.co/image/ab67616d0000b2730472733b924bb5bffa468799
+1eUSEIGd3eCEUOeLFgJACg,Jaden Bojsen,21415,,64,https://i.scdn.co/image/ab6761610000e5eba960c78bbb399e74c4b55d4c
+7sP4SQ0WY6jfps1I19Ot7i,Fridayy,321436,,65,https://i.scdn.co/image/ab6761610000e5eb719091b5ac1dd89efe0512cd
+2c9O21YLFy4tFI9zCVhbFg,Sunday Service Choir,195578,"gospel, gospel r&b, worship",52,https://i.scdn.co/image/ab6761610000e5ebeeddda7878eb282a03c52b1e
+49EE6lVLgU8sp7dFgPshgM,La Adictiva,6837567,"banda, norteño, corrido, grupera, corridos bélicos",72,https://i.scdn.co/image/ab6761610000e5eb18129b218ae9c07848ddc759
+7K5OqI5GnphpZMfIRs2UsI,Mar Lucas,36032,,48,https://i.scdn.co/image/ab6761610000e5eb319a9a2bf4b1b2aeb74710c6
+4d3kmfoZBTuUPSUjgP45uo,Lérica,102672,"flamenco, flamenco urbano, flamenco pop",56,https://i.scdn.co/image/ab6761610000e5eb60069095b938454d6905fc6d
+6i3DxIlAqnDkwELLw4aVrx,Lele Pons,1713886,,57,https://i.scdn.co/image/ab6761610000e5ebfc9b670f12ac4e47758569fe
+0WfaItAbs4vlgIA1cuqGtJ,Daniela Andrade,411707,,54,https://i.scdn.co/image/ab6761610000e5eb6a7cb6e67b38e9a0a9b6b607
+0BqURncJM5B1BBu7UM51eq,Guaynaa,908085,reggaeton,65,https://i.scdn.co/image/ab6761610000e5ebc52a3dda9c86c50ecb1fffc3
+3EK1eCIbh3eDCkLdbMQHpT,Solo Artist Saxx,3414,,19,https://i.scdn.co/image/ab6761610000e5ebacb6a1310cd73308c2af0c5b
+2KxjMGXFgX1vt9grpbD3xI,Dvicio,1177957,,54,https://i.scdn.co/image/ab6761610000e5ebf200f3431af03c6dc230d806
+4wLXwxDeWQ8mtUIRPxGiD6,Marc Anthony,10398481,"salsa, salsa romantica, merengue, bachata, latin, latin pop",77,https://i.scdn.co/image/ab6761610000e5eb036b6cb012fd1c34862161c2
+3qROYI3ah3E8axL40gsfQW,Pedro Polanco,16,,11,
+1QJbbsxg2wqidJj51d3otw,Natos y Waor,846539,,64,https://i.scdn.co/image/ab6761610000e5eb9976938b6b1edeb8278ffb85
+4bWHA8fMNjzfGPQqnh5D6y,Recycled J,240388,,64,https://i.scdn.co/image/ab6761610000e5ebb9c5f88d4f6cd0ba38089b45
+3nFnQg8Kav6UMFFjQ1dspY,Kutxi Romero,36876,,47,https://i.scdn.co/image/ab6761610000e5eb00516928c1be4f1cdf7b6ff0
+0fwnNjAay5ZHP5bAd63g8Y,Denom,145013,,50,https://i.scdn.co/image/ab6761610000e5eb1d6124327b378b2f7b9b8f52
+73nFLjE3BcdgywGYVtvXdL,Charlie Hijos Bastardos,43610,,40,https://i.scdn.co/image/ab6761610000e5eba3d62c3465f8d425cd2fedf8
+4lHAjTCvXGu8QIM3cEe93m,Maka,812409,"flamenco, flamenco urbano, flamenco pop",63,https://i.scdn.co/image/ab6761610000e5ebda6f02122762a93af36d036d
+1G9UsJeWguOS5mbpvQ1J7M,Chaman,10732,,32,https://i.scdn.co/image/ab6761610000e5eb7544dfe09f50570f25caf6b8
+64UHlFDUkT8Hx3RCtDUieN,Dope D.O.D.,120234,"hardcore hip hop, horrorcore, frenchcore",42,https://i.scdn.co/image/ab6761610000e5ebad6bab7a126c29b7edab90dc
+2cADP5WImTFXGp74T4s2QW,Ceerre,65,,14,
+3vlH5PSk5GSm61lfafSPAl,Lone Tusker,15936,,64,https://i.scdn.co/image/ab6761610000e5ebb12e9a2e9abc606a2629a780
+7hVLjMrQ0dfVbEXDWtEtY3,Doser,3222,,30,https://i.scdn.co/image/ab67616d0000b273a7e5c8dcc80c76e214b4bbfd
+4hsO4OgoQ1Wz2K0vyqEIpf,Cheb Ruben,26941,,35,https://i.scdn.co/image/ab6761610000e5ebe433d99694d811a58d3a777b
+1SAObfwYJSC9qgMlCcUVRp,Artist Ko Ensemble,32,,10,
+1VGOLh7hwVeKj2kqTkDAz6,Naiara,50994,,52,https://i.scdn.co/image/ab6761610000e5ebfe1de5968fda0283c33c2ce8
+1kcjyRBcnuC94JVRshXjI6,Albertucho,75614,rock urbano,41,https://i.scdn.co/image/ab6761610000e5eb635093cf1c09d49a2becd803
+1d4uM0g9449nE9TV5KeWch,Lejwe La Motheo Artist Development,22778,gospel,30,https://i.scdn.co/image/ab67616d0000b27308779bde4ae1e4010f9dcf61
+4YbohdhSehUUc7RT3STcKW,Midas Alonso,40750,,50,https://i.scdn.co/image/ab6761610000e5ebf746f1198d4c61a08a8d6ea7
+5Uox3n7m4W2CoM9MmHPJwQ,Delaossa,310677,,61,https://i.scdn.co/image/ab6761610000e5eb2317835869bbc9e1a2091137
+16M8fuShcwX8uBDdmFZH9B,Israel B,80842,,54,https://i.scdn.co/image/ab6761610000e5eba28c7f3ea8f0f56fd85e0582
+3T4KspU3H8Ya6sgxexg9F8,Ill Pekeño,50581,gregorian chant,54,https://i.scdn.co/image/ab6761610000e5eb3f5115b0c7a3ea0fd8d9c39e
+0U5RYP2HMdGv2GhicLhkOI,Neto Peña,1699974,"mexican hip hop, latin hip hop",68,https://i.scdn.co/image/ab6761610000e5ebbca8a9fb2641ce18cd0457aa
+1oHPSeQJBwNmpq0J52Wjn1,Toser One,678945,"mexican hip hop, latin hip hop",60,https://i.scdn.co/image/ab6761610000e5eb15483eb347c46af5dfb446be
+0SmgVe3giVHaJjGmIz8xA4,Yoss Bones,514694,"mexican hip hop, latin hip hop, latin r&b",63,https://i.scdn.co/image/ab6761610000e5eb2141cce2875b4f9304549e31
+6eXHRfK9Ad3IpMpSAqvcDf,Lefty Sm,3045530,"mexican hip hop, latin hip hop",72,https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb
+1m9WPOccw8sizsVYUhSVjZ,Selecta,29798,,51,https://i.scdn.co/image/ab6761610000e5ebffa6401dd333800cfb9826ba
+5NzCASNJVvcPW4uGwMRlPl,Al Safir,222881,,61,https://i.scdn.co/image/ab6761610000e5eb47bdc9475b8802155ad8c5a6
+3Nbij6lwrwz0XB7HubxdN2,Los del Control,10906,"flamenco urbano, neoperreo, flamenco",53,https://i.scdn.co/image/ab6761610000e5eb37122fb494598c73e44c6602
+5dC7EcwWdf9Qj4VvJab4rZ,FERNANDOCOSTA,400491,,58,https://i.scdn.co/image/ab6761610000e5ebaa1d17fbb20f34468476149c
+7xHM0B5EaZECFfClTngHl4,Jaime Lorente,24974,,27,https://i.scdn.co/image/ab6761610000e5eb9acc892cb0749d67be641ff2
+0u5LMlVeRfZZuh2Nxowii4,Kaos Urbano,46745,"punk, ska punk, ska",41,https://i.scdn.co/image/ab6761610000e5ebef3973723493af8061fe4e5a
+0PajLDK4vA1VnOVyYYO7Ae,Mucho Muchacho,25580,,37,https://i.scdn.co/image/ab6761610000e5ebfe3c7265a171930c21f6b3db
+2w1wJcGdJQ4Lw08oKBnDsw,El Jincho,475687,dembow,59,https://i.scdn.co/image/ab6761610000e5eb3051862ced0a6ac8147304fc
+3ou0JTD6UMkXvymmMrzBOJ,Brawler,5715,,33,https://i.scdn.co/image/ab6761610000e5eb909417f853586d7eed229d53
+1jRF8rcj4TMuVQR9PWnpFm,Nerso & Verse,25438,freestyle,44,https://i.scdn.co/image/ab6761610000e5eb14c1e49957e8752ffd58af58
+3wsYquQ9CiMlYG54BUR2ff,ZARAMAY,247213,"argentine trap, guaracha, rkt",54,https://i.scdn.co/image/ab6761610000e5eb94da2ffc144b7e30c6cc4e7a
+02boU8N2bDVDrjmICcEedY,Kane 935,1113,,19,https://i.scdn.co/image/ab6761610000e5eb54392fed65651961ac6cb737
+3SBsCnbQ5q8bOW0uBcwG54,Lin Cortés,45494,"flamenco, flamenco pop, flamenco urbano",43,https://i.scdn.co/image/ab6761610000e5eb2be5fb40641c17529afd8c19
+3QbKH2hb5ynYW9JSclqK4M,Piezas,33943,,40,https://i.scdn.co/image/ab6761610000e5eb9a87fa0bb1978e22afe3aeef
+2544NCTfffschCn1NZVMSb,Dollar Selmouni,87787,,51,https://i.scdn.co/image/ab6761610000e5eb8116767a41cc1dedaff67843
+1F2erLLqRHbaFvEYHeVIHJ,Foyone,193669,latin hip hop,52,https://i.scdn.co/image/ab6761610000e5ebb601ded20d3803df5526013f
+53iazAdOCTBFQRijBpyPsH,El Dave,1792,,27,https://i.scdn.co/image/ab6761610000e5ebc44da55510d94f9bbe6b72e3
+0s0OxZHyqDHEwPDOQuUxws,Pablo Gareta,474,,27,https://i.scdn.co/image/ab6761610000e5eba20e00373efb61148a187d14
+2CtyJZjJ1IAaChE7Lmx5Ga,Millans,717,,22,https://i.scdn.co/image/ab6761610000e5eb25ad59af3aa74fb584c0d5f4
+4qAYbjMdYIMqib63bM60Iy,Ozono Crew,1754,,25,https://i.scdn.co/image/ab6761610000e5eb19c09a964547ac03f8890083
+5UoKnJlsD96aXAgP5UjA0R,Chalo,659,,30,https://i.scdn.co/image/ab6761610000e5eb33de0c979ac5f35c3a40049e
+5Q2fyL2TcdUY9IqKTkGk5G,Bardero$,889185,"argentine trap, trap",63,https://i.scdn.co/image/ab6761610000e5ebf4c238e65f0007b4845beb69
+5JcO3FHEBbWTQMUHmWtU2g,Juancho Marqués,154403,,51,https://i.scdn.co/image/ab6761610000e5eb2d7e49e099084a1a376ae3f0
+0GABUps2B17UMu6M8tkEDS,InnerCut,5587,,40,https://i.scdn.co/image/ab6761610000e5ebadca1efc2bbc7f7806ba2fa4
+1EpK5uMCE7aUAyCQ7l1505,Alejandro Deese,615,,22,https://i.scdn.co/image/ab6761610000e5eb7845251388e9bede1043e310
+0Xo4VFS3v07L0GwIVkZLfg,Homer El Mero Mero,450331,"argentine trap, rkt, turreo, latin hip hop, trap, boom bap",62,https://i.scdn.co/image/ab6761610000e5eb7b04cdd58a2e8f9230b016d9
+4puAp107dCehraE47QXVQX,C.R.O,2342541,"argentine trap, trap",72,https://i.scdn.co/image/ab6761610000e5eb481996acd89ff921626ee7dc
+0OzDyhPnwvUVGRNWrVILlg,Miguel Campello,104571,"flamenco, flamenco pop, flamenco urbano",52,https://i.scdn.co/image/ab6761610000e5eb3c06370f32c5c7e4e9b79b79
+66BpLv7bc0OLbr50D1cnGS,Zetazen,121575,,43,https://i.scdn.co/image/ab6761610000e5ebf2fcec88473afaec52535fb3
+3XOMOMdcShaVEZi9xtuMNu,Naes Beats,691,,35,https://i.scdn.co/image/ab6761610000e5eb3a6a1027f2010df1acc6bdb2
+4FActBvkmDc8h3sI5vbMPZ,Blasfem,13708,,51,https://i.scdn.co/image/ab6761610000e5eb7685f5bc4eca2c64386705af
+4AGwPDdh1y8hochNzHy5HC,RAC,169161,,54,https://i.scdn.co/image/ab6761610000e5eb1fd073cc30283438f8512ba6
+2fusqJ5gMQKyV7255zfYVB,Aka Soen,372,,15,https://i.scdn.co/image/ab6761610000e5eb0d3d428287c2ebd73c67dbf6
+6OF5lzuoV1nvuS8qsNtpcZ,Ivancano,32552,,34,https://i.scdn.co/image/ab6761610000e5eb927017449843ebd07ec58b40
+4q8t2EUq273CYfKHE8qzQB,Dual Tod,6292,,25,https://i.scdn.co/image/ab6761610000e5ebbae994eb9dbb0d06e4b643d1
+660YptcR0hNHJ8iEr1qcse,Anthony Ramos,156955,,67,https://i.scdn.co/image/ab6761610000e5eb73ce65efeb8a990d8ee2e124
+3mmwKzCpVMiLiIKnnhOJvc,Sunk SB,524,,19,https://i.scdn.co/image/ab6761610000e5eb1e542c7ed1ce31c65f124d16
+4SsVbpTthjScTS7U2hmr1X,Arcángel,16450346,"reggaeton, trap latino, urbano latino",82,https://i.scdn.co/image/ab6761610000e5ebafdf17286a0d7a23ad388587
+2biH2I1TvZlIIIc5W14oIJ,"Franco ""El Gorilla""",363544,reggaeton,61,https://i.scdn.co/image/ab6761610000e5eb624c350cb0754298d633a627
+1WMwuNKzEFtU6pPkdtryYS,Kendo Kaponi,1193695,"reggaeton, trap latino",63,https://i.scdn.co/image/ab6761610000e5eba6db079799d908caddf93b30
+4W4h7xxw2kodLPJhL45aNx,Wambo,8021,,25,https://i.scdn.co/image/ab6761610000e5eb58b5ace62ea08412d629b418
+4RcSrFVp2RWV6oIjaWaEOx,Benyo El Multi,907,trap latino,13,https://i.scdn.co/image/ab6761610000e5eb178f65670f1c7b626efd5d74
+0XKKPDVNOJiB1XF15EUOXx,Papiwillo,350,,5,
+1bfl0AU8SqmLkElptOprhC,Julión Álvarez y su Norteño Banda,8600929,"banda, norteño, grupera, corrido",82,https://i.scdn.co/image/ab6761610000e5eb47953d3ea5b643699c9b298a
+0dj74ybp5jmDoE3nhm8hiJ,Diel el Dominante de Estilos,101,,0,https://i.scdn.co/image/ab67616d0000b2733c29fff6809ee09c52ad2b0b
+7l2RBXCXeGIZtAbOQUJZHY,Artista Roasrio,0,,0,
+1ie651v4A9NCPXPUrbYkaq,Nikko Music,5,,0,https://i.scdn.co/image/ab67616d0000b27354446e5f3b6b6df07b311413
+0eHWAfgyxZWAKR6NZ8nsd9,Julio Voltio,83076,latin hip hop,47,https://i.scdn.co/image/ab67616d0000b273a0474d742d5307b112555f87
+6Mjbr8K3MiiRMqmFIB4zWq,Luis Vargas,346634,"bachata, merengue, bachata pop",54,https://i.scdn.co/image/ab6761610000e5ebc6719c519f6a623386de23c3
+2Ri2A9I850gTv0k0a9O6MO,Abigail,4655,"flamenco pop, flamenco",36,https://i.scdn.co/image/ab67616d0000b273084344d7d2041670d2920b8b
+0lnehUfeSQDs1Mbbc4fa6K,Papi Wilo,239090,reggaeton,41,https://i.scdn.co/image/1a85204899c4eadd62e0041efbae57fafbcd6f54
+13FLfwjYGlKjGG2bqiRxdU,Jonas Benyoub,13761,"norwegian rap, norwegian pop",53,https://i.scdn.co/image/ab6761610000e5eb8c1f28115e19fce366dcdba0
+7oJvxVTuO9Cm8B2MuynymV,Oveja Negra,802,salsa,22,https://i.scdn.co/image/ab67616d0000b273b8287d3382b671174f835293
+507wnKTa4hle9jlTW0W9eH,Zawezo Del'patio,1227,,12,https://i.scdn.co/image/ab6761610000e5ebbb9b785abb6dc3df3bf357a4
+40Ippe6JeofRURQ4nbF8DT,Taburete,463238,,58,https://i.scdn.co/image/ab6761610000e5eb21e897b9b3a704a626ca20fa
+7p5J8SfKU9Rulp7tcA53G8,Jose Merce,214485,"flamenco, flamenco pop",50,https://i.scdn.co/image/ab6761610000e5eb85b3d5106c80916e4bf289b1
+3lY9Fxceu60W1rbon7PkuF,Omar Montes,885432,"flamenco, flamenco urbano, flamenco pop",68,https://i.scdn.co/image/ab6761610000e5eb90559d5942b29317110bd5be
+7xtnpHS34mLlxGZDVUBHSU,La Húngara,348317,"flamenco, flamenco pop, flamenco urbano",56,https://i.scdn.co/image/ab6761610000e5ebacdc225baaf60fe85bae71ba
+4Yw56UxYUiCfOgJGw4LSl0,"Taburete, Loreto Sesma",33,,14,
+1LMyTeRhjaitILs98h3MaF,Jósean Log,1110326,"mexican indie, latin indie",69,https://i.scdn.co/image/ab6761610000e5eb73dd5c3798474b529c4a4b4f
+2ECP3nWC88LaFz4oQzTo3Z,Café Quijano,456636,"bolero, rock en español",56,https://i.scdn.co/image/ab6761610000e5eb2909f0a5cb634292eb53a6b2
+1RTZXV2Txeij9hW1C88mfs,Marlon,95594,,50,https://i.scdn.co/image/ab6761610000e5ebf60edf5226075c5b62a73056
+21ttsUKZ3y2Hm6nduyvbAw,Pignoise,219152,,56,https://i.scdn.co/image/ab6761610000e5eb122fb2710ca2041ab1e501b5
+2faVKByk0IA651ICKyYYOa,Jenny And The Mexicats,232645,latin folk,52,https://i.scdn.co/image/ab6761610000e5eb4acfb9c670bb31c9badfabb1
+4RcxB8P0t3Pz6gaOHTFgWm,Íñigo Merino,6938,,32,https://i.scdn.co/image/ab6761610000e5ebd28f2307a70531cf539c6b70
+6MgIZuaJa0swshfLRDZMdw,Comandante Twin,9789,,38,https://i.scdn.co/image/ab6761610000e5ebb38800640db858baa3e6c694
+3bxfcfxKQ7rbS93s7jZhiw,DJ Nano,32469,,41,https://i.scdn.co/image/ab6761610000e5ebe4d3560f0a302a31fc5cdaf2
+3AbsiDlRF2eFggJ3DVaH6O,Pavlenha,4831,,27,https://i.scdn.co/image/ab6761610000e5ebb44b5d9ac4a39f791b9807be
+60ug17UU1lHhqisQwRPxkX,Chelsea Boots,3504,,13,https://i.scdn.co/image/ab6761610000e5eb313e03c49b2e2ddcd83881eb
+2TQyVG4JdI6hdRsOMEFOg4,Kitai,8681,,21,https://i.scdn.co/image/ab6761610000e5ebd2bf68661d46e0e54cc4e39b
+4cA5JN7tiNZ8afYeuSQj5h,David Otero,171890,,53,https://i.scdn.co/image/ab6761610000e5eb370a8f79f3760ab98dc1d5a8
+0QE9iXPzgSaBq34OqIZ4n2,Despistaos,250913,,54,https://i.scdn.co/image/ab6761610000e5eba7d2b195a2dd7dd2829d50d9
+1AsstJ8Cf7uQX92weRmZRz,mafalda cardenal,121318,,55,https://i.scdn.co/image/ab6761610000e5eb04a78c2a4bc2960318c05b6c
+5M9Bb4adKAgrOFOhc05Y50,Pablo Alborán,5381766,latin pop,73,https://i.scdn.co/image/ab6761610000e5eb603fdedea1dab4c77d7d8bcc
+5iDqEobZRSTiBSAk6jLp4A,Oscu,490637,argentine trap,51,https://i.scdn.co/image/ab6761610000e5eb3f46086349ca86146f7a1edc
+0CVOcYvRcSvOXyuR4YGKaC,Dani Fernández,292507,,66,https://i.scdn.co/image/ab6761610000e5eb494e014cac9d76d0cee357ee
+2O4wnhTr4SO5ezY6WXI2Kl,Yarea,14955,,40,https://i.scdn.co/image/ab6761610000e5ebee0713556decc2117d1217cf
+7A2htSu45kogVfNBMD4Xgh,KICKBOMBO,1692,,39,https://i.scdn.co/image/ab6761610000e5eb56809d429bc84280505196aa
+5f7z2thkqWrA4vp5Hh476O,Enol,41623,pop urbano,51,https://i.scdn.co/image/ab6761610000e5eb028382e95e09634ed94ac748
+0J9mbwg4BquN4XlHzdMK3X,Demis Roussos,380911,schlager,54,https://i.scdn.co/image/ab6761610000e5ebe6e8f3467f1abe745e23598c
+4ckWVaYN8j0EZrNFRHmxZx,Marmi,33514,,47,https://i.scdn.co/image/ab6761610000e5eb77d8fdc8d6ce3f497d88a6b4
+3AIPhNgeF9S1Kyg9Yy3UQW,Dani Martín,961932,,63,https://i.scdn.co/image/ab6761610000e5eb7275a7f7e85ef2e9a67d84e5
+2k60o7SVpOKmzpuTEAG3L8,Veintiuno,45513,indie,51,https://i.scdn.co/image/ab6761610000e5eb3f9fde10ba4638b7b4668ec2
+5Exvb6CXfgIb7sYwvzO7pS,Cris Moné,38493,,33,https://i.scdn.co/image/ab6761610000e5ebe0064673d1baf0ba20468e59
+1aRWWqUGxjgTSGQYHGZbot,BADDIES ONLY,69768,"latin house, afro house",57,https://i.scdn.co/image/ab6761610000e5eb7e942c27a0ade26140d6defc
+4gnG14mIS3ejJyqqyJHhsN,Pilar Moxó,967,,35,https://i.scdn.co/image/ab6761610000e5ebb72eee502281868dd90c81d5
+7mezygw3UyrLUuTL9tFI3V,Stfanz,201,,25,https://i.scdn.co/image/ab6761610000e5eb70a12cf5bb3e061d74fc963d
+0UkT6v5uBVrNrDr5TdETq9,La Cebolla,85216,"flamenco, flamenco pop, flamenco urbano, reggaeton chileno, chilean mambo",51,https://i.scdn.co/image/ab6761610000e5eb8815377add9c1458855dc020
+5wCD2Zj15nNjKiUl2o17JF,Negro Jari,31196,"flamenco, flamenco urbano, flamenco pop",46,https://i.scdn.co/image/ab6761610000e5eb6752c50d5e86a22452517012
+0Gqu6SH6up2gE5Hkj1Y4eB,El Bobo de las 3000,6273,"flamenco, flamenco urbano, flamenco pop",42,https://i.scdn.co/image/ab6761610000e5eb2142f430dbd18230f64485c0
+2wAaSz0RQhjIYlNbP7rtes,Tijeritas,69866,"flamenco, flamenco pop",41,https://i.scdn.co/image/ab6761610000e5eb70b09918e68d5a8e8d58225f
+6V394G6torkxVfqL39qEgK,All Artist Adella,576,"dangdut, sholawat",11,https://i.scdn.co/image/ab67616d0000b27308233c5411aa0e6e89c7310c
+1RophZg57HG7TQz3zDWPCl,Manuel El Popeye,17412,"flamenco, flamenco urbano, flamenco pop",39,https://i.scdn.co/image/ab6761610000e5eb47a6ede31434cdcb9a7bf3b1
+6RxkDSArzeadsjX2TNceoU,Mancloy,528,flamenco,22,https://i.scdn.co/image/ab67616d0000b27390714f316098099aa8839ee3
+2oGKz17M9irWt2YhQ9PUYP,Poetas Sureños,705,flamenco,26,https://i.scdn.co/image/ab67616d0000b2733f0263abff20ee59d0dedbc8
+65GDNtLQdPv30IljvoE2KW,Maki,130711,"flamenco, flamenco pop, flamenco urbano",55,https://i.scdn.co/image/ab6761610000e5eb712cb79c818814c5ab0e1b03
+1iydw0OqyICpB5XlyfZ7qP,Nolasco,93761,"flamenco, flamenco pop",50,https://i.scdn.co/image/ab6761610000e5eb9e3a056a706ee408f27037ba
+19WQtApO8bp44xVTR4D138,Junco,188008,"flamenco, flamenco pop, flamenco urbano",49,https://i.scdn.co/image/ab6761610000e5ebde002c2ea1760b56a930aedd
+1Iz37NQir982vjp45S2QmC,Yoseiko,1579,"flamenco, flamenco pop, flamenco urbano",34,https://i.scdn.co/image/ab6761610000e5ebf9810699626d2cc79134a415
+0YX8LuMQAh6ousnyhwXbkz,El Jhota,73931,"flamenco urbano, flamenco",53,https://i.scdn.co/image/ab6761610000e5eb07df703bffb2748c59975f6d
+5QYdUMRHeBxlpJioqpIL0k,Sergio Contreras,270817,"flamenco, flamenco pop, flamenco urbano",51,https://i.scdn.co/image/ab6761610000e5eb6ac1b5e7f791cb0684fc6798
+3E27Kf6GhvONIkJjudUW67,J Marrufo,350,"flamenco pop, flamenco, flamenco urbano",17,https://i.scdn.co/image/ab6761610000e5eb4be57628331a83c339600e50
+5ACW0L3lAgfRihTOhV8awe,Lorena Santos,64209,"flamenco pop, flamenco, flamenco urbano",48,https://i.scdn.co/image/ab6761610000e5eb0efb74e0553377904a94bb66
+0cS0g5Mrb0wakulvnGSz9v,Bernardo Vazquez,26503,"flamenco, flamenco pop, flamenco urbano",43,https://i.scdn.co/image/ab6761610000e5eb41f7135d217fdece43c61007
+5vnX0sfjkusMXzXpBEj4Ce,Mayel Jimenez,92789,"flamenco, flamenco urbano, flamenco pop",47,https://i.scdn.co/image/ab6761610000e5eb1166f35e0576ade81ae60f4e
+3k090bKo2iSqNdowffKHrt,Balbi El Chamako,323724,"chilean mambo, reggaeton chileno, chilean trap, mambo",57,https://i.scdn.co/image/ab6761610000e5eb4b65bc50ced1932e2b90162b
+1S5WLkcajugOGAx0DfVyIf,ACM Awards New Artist Nominees,729,,21,https://i.scdn.co/image/ab6761610000e5eb2a9fe9f5cd26cce51a8f3f94
+5lwU7m62FDvwm2hnNxfStO,El Maniako The Boost,3179,"chilean mambo, reggaeton chileno, mambo, chilean trap",35,https://i.scdn.co/image/ab6761610000e5eb77ef3746d2df55dffdda453c
+7zezEcThEVuTMXsVgPLPG1,Joan Y Su Elite,116718,"corrido, corridos tumbados, corridos bélicos",47,https://i.scdn.co/image/ab6761610000e5eb99cd975be1b0fae6a2b2b3d4
+7j7bOkG9ZQncpAXyIJ2aUG,Delirious,1302,,38,https://i.scdn.co/image/ab6761610000e5eb64a95f91a7ed5d70d48ffcb1
+2dkbKcHXhN7ooFBdqAV76G,Nyno Vargas,303275,"flamenco, flamenco pop, flamenco urbano",54,https://i.scdn.co/image/ab6761610000e5eba9cf95d4f838f85bbdb66d6a
+2M4r5bXlZUlGWlrhgvTcEP,Artist Rell,929,,11,https://i.scdn.co/image/ab6761610000e5eb197bf5e0dc706f67165336cb
+7qFPgSlR8N4aehSqQWkklI,La Puri,26479,"flamenco, flamenco urbano, flamenco pop",32,https://i.scdn.co/image/ab6761610000e5eb9145b606a54c753b3b493dbf
+4gI6T5h1UQPf5hA3FdJULt,María Artés,127966,"flamenco, flamenco pop, flamenco urbano",52,https://i.scdn.co/image/ab6761610000e5eb126e6fa3ab06d65098b47a93
+492C2UtmfLxF5LAPK6eHFG,Fernando Caro,14961,"flamenco pop, flamenco, flamenco urbano",39,https://i.scdn.co/image/ab6761610000e5ebf5340fade01272a2094be2d8
+3Uflioj3E0OPRjWbW2QZMb,Barroso,38869,"flamenco, flamenco pop, flamenco urbano",42,https://i.scdn.co/image/ab6761610000e5ebc3b11fb6f0e14227f4e94604
+79NHJFzd1chgx30ZOavJaC,Borja Rubio,37268,"flamenco, flamenco pop, flamenco urbano",41,https://i.scdn.co/image/ab6761610000e5eb09c3f28e5a94f4dee9e41033
+3vQm0KZuaevPCcAiDtvKwt,Arancha Santiago,7583,"flamenco pop, flamenco, flamenco urbano",32,https://i.scdn.co/image/ab6761610000e5eb983f0eec6b024b6807e5a63f
+6HicKkQCsFBuz3pHP5P5yG,Ansara,7471,"flamenco, flamenco pop, flamenco urbano",35,https://i.scdn.co/image/ab6761610000e5ebcaab5219acfcab9b379970b1
+1YaKke1PejI7S5TJSgqVcl,Fraderita,4656,"flamenco, flamenco pop, flamenco urbano",40,https://i.scdn.co/image/ab6761610000e5eb4f07493a382cb053190c73b4
+1tVYbAyTHkbRvpsS2ri3PV,Salva Bermúdez,2731,"flamenco, flamenco pop, flamenco urbano",36,https://i.scdn.co/image/ab6761610000e5eb79957191b3e835f484af387b
+7BLGrzqCy8NElaGewQS6K5,El Sebas de la Calle,47321,"flamenco, flamenco pop, flamenco urbano",42,https://i.scdn.co/image/ab6761610000e5eb3f74afe2ed8b7ff32904697d
+2YHsC8LIvNhp0oNcchhBu5,Manuel González (Ex Rebujito),12881,"flamenco pop, flamenco, flamenco urbano, bachata",38,https://i.scdn.co/image/ab6761610000e5eb9df5cf2b5b831e0b84b37518
+0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,11927535,,74,https://i.scdn.co/image/ab6761610000e5eb084f36c2ae2da4a02494e1e5
+1j6nARJrYkblnkMFJMiU0K,El Morrales,16506,"flamenco, flamenco urbano, flamenco pop",35,https://i.scdn.co/image/ab6761610000e5eb0020f64d882db3cf18dd4d89
+5xrMkm1Ea0YbloMu63eAoW,Bugui Heredia,213,flamenco,22,https://i.scdn.co/image/ab67616d0000b273547bc69af37373b3bc5a8f5e
+5GQlOJYwr218kW30YhWpG6,David Barrull,46503,"flamenco, flamenco pop",38,https://i.scdn.co/image/ab6761610000e5eb0d0f87f0e2f39f609e8b1309
+64cr9UYTT8aMj85qRswiTt,Parrita,100400,"flamenco, flamenco pop",45,https://i.scdn.co/image/ab6761610000e5eb4f5e451ef93a60295a62a609
+1KQYRzvxhXlv2FwObdwt05,Sonsonete,39531,"flamenco, flamenco pop",32,https://i.scdn.co/image/ab67616d0000b2735af883647dc07cc1013065ef
+5de5JeJGROplUlqlrPuQNK,José Parra,6440,"flamenco, flamenco pop",14,https://i.scdn.co/image/ab67616d0000b2737cb6e9dbc0e97bb31c3e8c50
+63XBtGSEZINSyXylZxEUbv,Victoria Monét,1194269,alternative r&b,64,https://i.scdn.co/image/ab6761610000e5eb0e3524063986882f3706730b
+41HE2dQNySxOJNb2TorVBr,Indara,33660,"flamenco pop, flamenco, flamenco urbano",45,https://i.scdn.co/image/ab6761610000e5ebd1a296524c33346dd25407a6
+3Ces1OJeGOVGcUB0wPaPXJ,Mala Rodríguez,563870,latin hip hop,54,https://i.scdn.co/image/ab6761610000e5eb9daf9c526ead6228439f2dee
+0YlJWz6Mt1zIKdMTxBNzDu,Dorantes,15052,"flamenco, flamenco pop",33,https://i.scdn.co/image/ab6761610000e5eb5bbfefda26985d0e523cdc88
+1YZhNFBxkEB5UKTgMDvot4,Lang Lang,305604,"classical piano, classical",63,https://i.scdn.co/image/ab6761610000e5eb15c1582cd95a6521f41ec712
+0yiwWDdqEuLc99kyfJgOEP,Álvaro Urquijo,1804,,30,https://i.scdn.co/image/ab67616d0000b27314781e533f05dcc6108a70b6
+4aeIWo5CMF1uRmqgJdwkZW,Joaquín Sabina,3241433,"trova, singer-songwriter, nueva trova",68,https://i.scdn.co/image/ab6761610000e5ebd30f9a429e2aa4eb9d1ddf21
+4ssUf5gLb1GBLxi1BhPrVt,Jorge Drexler,883198,"trova, singer-songwriter, latin folk, nueva trova, latin alternative",64,https://i.scdn.co/image/ab6761610000e5ebff6bfb6400287b5c9f4e8c94
+5sUrlPAHlS9NEirDB8SEbF,Alejandro Sanz,7872466,latin pop,76,https://i.scdn.co/image/ab6761610000e5eb8f09f1d99f23473cad2674a2
+3tAICgiSR5PfYY4B8qsoAU,Andrés Calamaro,2674836,"argentine rock, rock en español, latin rock",70,https://i.scdn.co/image/ab6761610000e5eb46de1ff7aab6d657f7776229
+7iVnPo1i10De0UGQz5eDsl,Chabuco,12213,"bolero, vallenato, nueva trova",38,https://i.scdn.co/image/ab6761610000e5ebb61beafbce3243fc8c5da3d7
+6Q2IyPPT7Dudzy500vDrbD,Helene Blum & Harald Haugaard Band,775,,16,https://i.scdn.co/image/ab67616d0000b273643af22aa173abb2c84e29cc
+1gIRAKME2A6CNJ3mBSBpjl,Enrique De Melchor,2899,flamenco,13,https://i.scdn.co/image/ab67616d0000b273b61b912e81a21279dcf17853
+1S03zxcWTbKZLuTgYguh6a,Manolo Carrasco,2985,flamenco,19,https://i.scdn.co/image/ab67616d0000b273442392f266587c651694b7aa
+2wLsQjpVzFTjm7y7q5XqQl,José Luis Postigo,115,,12,https://i.scdn.co/image/ab67616d0000b27317eed1d818547852cdc8711e
+75pH95ykfAi7kGmJvXoGIq,Alex Acosta,3822,tribal house,9,https://i.scdn.co/image/ab6761610000e5ebd5987e3b569e2308c93a075a
+5YaF4OFE7dr8O0vT5ahnCa,DJ Floro,448,,3,
+4ScEbX8kR3XQEthNeqza6V,Lee Hamilton,22,,0,https://i.scdn.co/image/ab67616d0000b273fb50f78316d7b83847e4be08
+36C9dpUN77bRnkw7XIbVqr,Tim Whelan,105,,6,https://i.scdn.co/image/ab67616d0000b273f5e9b783fd5e04b72fe1258e
+3fL7CdIVXHExcqB0N5sR7q,Guillermo Quero,1,,0,
+1eQLDZhk0yPTngMFwfI8Xv,Tino Di Geraldo,2353,"flamenco, latin jazz",32,https://i.scdn.co/image/ab67616d0000b2733698daaf83a6661748c4b585
+2g9WNPoqwMuArkku3uYrmI,Eduardo Molinero,70,,1,https://i.scdn.co/image/ab67616d0000b2734b72ce87271ec9411582ea55
+4YLSSFWkKd8V5E5Nvli1DQ,Danny Cofey,0,,0,
+2wkoKEfS6dXwThbyTnZWFU,Mau y Ricky,6766742,"reggaeton, latin pop",69,https://i.scdn.co/image/ab6761610000e5eb4496181f37731cbc794802d7
+2laDE3zsNJYoX7n8nF3YPJ,Ilegales,59016,"latin rock, rock en español",44,https://i.scdn.co/image/ab6761610000e5ebffad8a2c98a0d06e423c2a0e
+2cPqdH7XMvwaBJEVjheH8g,Jay Wheeler,4582580,reggaeton,77,https://i.scdn.co/image/ab6761610000e5eb80b41c080528269433529e93
+14zUHaJZo1mnYtn6IBRaRP,Justin Quiles,4832845,reggaeton,77,https://i.scdn.co/image/ab6761610000e5ebbeba3686f2081e55ccea59e8
+60XHOAhvEBiV6BGBOv8ClM,La Joaqui,2143792,"rkt, turreo",68,https://i.scdn.co/image/ab6761610000e5ebb97e28d4bd2e5c82d460a768
+21451j1KhjAiaYKflxBjr1,Zion & Lennox,7957317,"reggaeton, latin",75,https://i.scdn.co/image/ab6761610000e5ebfa844599a8631cca451a93e5
+7a0XAaPaK2aDSqa8p3QnC7,Beéle,1186373,reggaeton,81,https://i.scdn.co/image/ab6761610000e5eb3a404fc0649794f02c02524d
+3mXFyGsGwiXIybo2Sr4EG2,Andry Kiddos,25858,,38,https://i.scdn.co/image/ab6761610000e5eb0a7ea8b607dc319c4538783c
+0eecdvMrqBftK0M1VKhaF4,CNCO,9397099,"reggaeton, latin",66,https://i.scdn.co/image/ab6761610000e5ebe61627c00d64dcb4de8001d2
+0KPX4Ucy9dk82uj4GpKesn,Dalex,5033603,reggaeton,75,https://i.scdn.co/image/ab6761610000e5ebff284180f08000247df12e2c
+1DxLCyH42yaHKGK3cl5bvG,Maria Becerra,7541436,argentine trap,78,https://i.scdn.co/image/ab6761610000e5eb82b6395f90fd08563b4542ea
+5XJDexmWFLWOkjOEjOVX3e,Eladio Carrion,8401646,"trap latino, urbano latino, trap",79,https://i.scdn.co/image/ab6761610000e5eb66465185373d360ded208ecb
+1TfSVLC8KtuIo6uWNqCbqU,Artist Moon,180,,2,https://i.scdn.co/image/ab6761610000e5eb58559e457e6c0c5b86b13fe1
+1SupJlEpv7RS2tPNRaHViT,Nicky Jam,19521118,"reggaeton, latin",81,https://i.scdn.co/image/ab6761610000e5eb4e0f64cf0dab523714a800a7
+4m6ubhNsdwF4psNf3R8kwR,KHEA,6014711,"argentine trap, trap, trap latino",75,https://i.scdn.co/image/ab6761610000e5ebdf440f19484adb0a0903704f
+7cd0OMsXCsilwM1gwmJ5dF,Robbie Meza,134,,12,https://i.scdn.co/image/ab6761610000e5eb6758f28a3c1fb53ad4ed5933
+790FomKkXshlbRYZFtlgla,KAROL G,54986768,"reggaeton, latin, urbano latino",88,https://i.scdn.co/image/ab6761610000e5eb4b0754aefc9db490e02205ec
+4obzFoKoKRHIphyHzJ35G3,Becky G,15939584,"reggaeton, latin",76,https://i.scdn.co/image/ab6761610000e5eb689f28b643fd40a523e00a96
+22P1OY4TRFRwhP0q29loQ8,Lali,1984488,,62,https://i.scdn.co/image/ab6761610000e5eb9966b17b3ded0c94986f891f
+6BeO1KuAWBqFriL1mLHtNc,Leslie Grace,1052367,bachata,57,https://i.scdn.co/image/ab6761610000e5ebbde67f9fdaf3531de31caad2
+0tmwSHipWxN12fsoLcFU3B,Manuel Turizo,14732648,"reggaeton, latin, colombian pop",81,https://i.scdn.co/image/ab6761610000e5ebfb87d42d66722931e826d630
+7uQ1D2NNHs5cUL3CLKRbia,LAGOS,184715,,64,https://i.scdn.co/image/ab6761610000e5eb33b0d5575502ed62b6a3094d
+2AbQwU2cuEGfD465wCXlg2,Rawayana,905655,"spanish-language reggae, reggae",70,https://i.scdn.co/image/ab6761610000e5ebb5c14a2ec63ac237caab6593
+3SCOuAxngTC1yGjKMcIPEd,Lasso,957027,,70,https://i.scdn.co/image/ab6761610000e5ebb9a995f7c2e1d2b62a9a44a3
+1gJdf4Yybu4X5A2xYV3NMV,Eden Muñoz,2576402,"banda, corrido, norteño, corridos bélicos, corridos tumbados, música mexicana",74,https://i.scdn.co/image/ab6761610000e5eb396c881b092ffda12c2488e4
+5Yx5W4EetQuOwbvHrCFL9Y,High and Low HITS,5504,,39,https://i.scdn.co/image/ab6761610000e5eb94c3adc2f74bfbed639ee620
+6ESkuwldylZr39AIAPC63J,Alejandro Lerner,391678,"argentine rock, trova",53,https://i.scdn.co/image/ab6761610000e5eb0dbbb2b8c4424c818c0106a4
+1aWJsBQa67l72j1VT3D6Ow,Micro TDH,2487361,,68,https://i.scdn.co/image/ab6761610000e5eb48c6a0c02de934d0378e88a3
+6gjAbs229sNHhSskJpQ2mG,Artist Unknown,990,opera,24,https://i.scdn.co/image/ab67616d0000b273dea2d7ef77ad8e3ec3739d23
+5Y3MV9DZ0d87NnVm56qSY1,Tiago PZK,5626325,"argentine trap, urbano latino",77,https://i.scdn.co/image/ab6761610000e5eb1d55675db6420205bfe0c7e4
+4vhNDa5ycK0ST968ek7kRr,Carlos Vives,6517043,"colombian pop, vallenato, latin, latin pop",73,https://i.scdn.co/image/ab6761610000e5ebd5976263fc4cfc15b6627f7b
+38J4nu5eGAEtwWH9fSWEj4,Lucy Vives,1557,colombian pop,35,https://i.scdn.co/image/ab6761610000e5eb60d03025a520d9dfb4c91bf3
+77aLk6J8ofnVxa1eXK9jiU,Matisse,1111789,,64,https://i.scdn.co/image/ab6761610000e5eb72863003f4298d69fed890d8
+5DUlefCLzVRzNWaNURTFpK,Cali Y El Dandee,4018189,"colombian pop, reggaeton",67,https://i.scdn.co/image/ab6761610000e5ebda2fa8103c14bed61c439b72
+4bw2Am3p9ji3mYsXNXtQcd,Piso 21,9314312,"reggaeton, colombian pop, pop urbano",73,https://i.scdn.co/image/ab6761610000e5eb47256de3ea7bbaeac4bc1843
+415U6UPWJEnCPoGsVlX2nV,JonTheProducer,204,,23,https://i.scdn.co/image/ab6761610000e5ebdce2ef19bfc9d0b3a31c06a2
+52qzWdNUp6ebjcNsvgZSiC,Evaluna Montaner,913499,,65,https://i.scdn.co/image/ab6761610000e5ebe0fea3817a423295c9236332
+6kq4GHwUcUojGIu0ziSNXf,Amenazzy,3286436,"trap latino, reggaeton, dembow, urbano latino",65,https://i.scdn.co/image/ab6761610000e5eb5565452c2ded3716f5930d69
+0eHQ9o50hj6ZDNBt6Ys1sD,Yandel,8353219,"reggaeton, urbano latino, latin",77,https://i.scdn.co/image/ab6761610000e5ebb28ff26a8cba0079ec44e84e
+66W9LaWS0DPdL7Sz8iYGYe,JP Saxe,571471,,64,https://i.scdn.co/image/ab6761610000e5eb2763a481ed5941869b019ad3
+5y2Xq6xcjJb2jVM54GHK3t,John Legend,7466432,"soft pop, neo soul",75,https://i.scdn.co/image/ab6761610000e5eb01784e44ffd1a339350f4417
+4Wcscw7z9AAE6y7qWdIAin,Dylan Fuentes,46230,,48,https://i.scdn.co/image/ab6761610000e5ebd3176c0a672c7e6f9bea0c74
+0GM7qgcRCORpGnfcN2tCiB,Tainy,2693349,reggaeton,77,https://i.scdn.co/image/ab6761610000e5ebb50d43598b9074f0d6146127
+3m5qlPf2OkihLz3dRYnkPA,Ovy On The Drums,852517,reggaeton,82,https://i.scdn.co/image/ab6761610000e5ebbf7270a270d27e1b6c5b847e
+23wEWD21D4TPYiJugoXmYb,Thalia,5102238,latin pop,69,https://i.scdn.co/image/ab6761610000e5ebada9b6cfaa2378c96c7a40c8
+3fZk3Gm5dN5v5yfYMQ04Bx,Dímelo Flow,556742,"reggaeton, urbano latino",69,https://i.scdn.co/image/ab6761610000e5ebf64b7eeda594e0ab8deb8b74
+1pQWsZQehhS4wavwh7Fnxd,Lenny Tavárez,3240835,"reggaeton, urbano latino, trap latino, argentine trap",78,https://i.scdn.co/image/ab6761610000e5eb3afda6e209cde491e2ec3ace
+6at89c1X6MePFzaOdWrnIL,ArtisteRadar,3,,5,https://i.scdn.co/image/ab67616d0000b2731131e7df5367912acb6898a9
+1VrWc8r4AjrR8YfT0vlsc7,Chyno Miranda,1631236,,41,https://i.scdn.co/image/ab6761610000e5eb3fb5c9bfb54b3ac2c271b5e1
+47MpMsUfWtgyIIBEFOr4FE,Lunay,9767515,reggaeton,71,https://i.scdn.co/image/ab6761610000e5eb45d443b065a66c92d166f598
+04QAHqsyX2YvreBDLkgpXb,XAXO,1850,latin r&b,23,https://i.scdn.co/image/ab6761610000e5eb95f095da649167d0d042479b
+7LkCRVcvQaZor2rIsWiVDA,Rudy Mancuso,113682,,33,https://i.scdn.co/image/ab6761610000e5eb2dad364682863b571a33aa5a
+3bAPo06XsUX6fo8iHYUqH7,Leslie Shaw,164892,,43,https://i.scdn.co/image/ab6761610000e5eb6564b0f71c377cdc6f1439db
+329e4yvIujISKGKz1BZZbO,Farruko,16421583,"reggaeton, trap latino, latin",82,https://i.scdn.co/image/ab6761610000e5eb7d36b670eff30cc4de53f67c
+4h6Eg0dBZ4Fr8vRcSn8r5r,Sharo Towers,2401,latin afrobeat,43,https://i.scdn.co/image/ab6761610000e5ebd75dd0b855b4ccbde8fd1a3d
+6R6DXuHYxkMv159D9OaS3C,One Voice Children's Choir,160667,,46,https://i.scdn.co/image/ab6761610000e5ebe38d6a6bb3a86d7ab481ed8a
+03Qx159jmT9mvmw5YjzvAs,Melissa Robles,36758,spanish-language reggae,45,https://i.scdn.co/image/ab6761610000e5ebc8cbd911d4ae929a2469ab35
+4IjHltwoSKbUeZLPeULyDe,Nahuel Pennisi,140687,"folklore argentino, cuarteto",54,https://i.scdn.co/image/ab6761610000e5ebba4f3efc1c1f825dee4969cc
+5RwfJb8wxN1fuodcPORVxP,José Luis Perales,2654250,"trova, bolero",67,https://i.scdn.co/image/4758fc2c8895a4889fe887ea7198dd7d4e14464f
+7fAKtXSdNInWAIf0jVUz65,Roberto Carlos,6398203,"mpb, brega, bolero",70,https://i.scdn.co/image/45e8967f18679d0a5791c7f647d9f7ab1bc20f3c
+4mN0qcMxWX8oToqfDPM5yV,José José,9199345,bolero,77,https://i.scdn.co/image/ab6761610000e5eb0c387e6ddb399d55a8e51341
+5lODCkFdEtpPn3YxfmyLfT,Armando Manzanero,754621,"bolero, trova",53,https://i.scdn.co/image/ab6761610000e5ebbada8e184bd77e4484d5f0c3
+15YnmlNukYCFvwaFnoDwwV,José Luis Rodríguez,1208945,bolero,59,https://i.scdn.co/image/ab6761610000e5ebc70544f7af8dcacedbd2dc75
+5IFCkqu9J6xdWeYMk5I889,Gloria Estefan,830973,,63,https://i.scdn.co/image/ab6761610000e5ebcb6ddcef04b60c7078151ac7
+2uyweLa0mvPZH6eRzDddeB,Rocío Dúrcal,4930059,"mariachi, ranchera, bolero",69,https://i.scdn.co/image/2ae2272c989c4a0921f0dd99240ef51784fda6f3
+1h4iSQAKdvAAm07l6FX6dy,Omara Portuondo,149533,"son cubano, bolero, latin jazz",51,https://i.scdn.co/image/ab6761610000e5eb40e58c339ecac3919c5944a8
+2HvyR5FsU37QMqVzIbGwl7,Mercedes Sosa,1075098,"trova, folklore argentino, nueva trova, latin folk, singer-songwriter",57,https://i.scdn.co/image/ab6761610000e5eb5eb33e71c4c337f35c1df5b4
+67h1eGw2OFs89l8EnaOdoS,Luis Eduardo Aute,394033,"trova, nueva trova, singer-songwriter",50,https://i.scdn.co/image/ab6761610000e5eb1c1f153ed68e7655dba1e190
+2Cy7KBSkqu7otJfuMTWT7Y,Camilo Sesto,4570089,bolero,67,https://i.scdn.co/image/ab6761610000e5eb4ec8010479675af6f0b30e82
+7mWCSSOYqm4E9mB7V4ot6S,Miguel Bosé,2954124,latin pop,69,https://i.scdn.co/image/ab6761610000e5eb1214eed8a63451d06d78f51d
+72v53CufRiSyqcQ78KUQ5p,José Maria Napoleón,1313033,,62,https://i.scdn.co/image/ab6761610000e5ebc3e49fccb6b95a35b3613462
+6qhOH2mrlqUDod9sWA5kR2,Leo Dan,3756258,"ranchera, bolero, mariachi",72,https://i.scdn.co/image/ab6761610000e5ebf4ec89abadc41dbee74502b0
+5B8ApeENp4bE4EE3LI8jK2,Yuridia,5243681,latin pop,74,https://i.scdn.co/image/ab6761610000e5eb536bd31ff8011be5430502cd
+264nbMzGPSkDZqTY8nXwCG,Tommy Torres,873156,latin pop,58,https://i.scdn.co/image/ab6761610000e5eb3ad2fd00f1e96ce0219af074
+4jogXSSvlyMkODGSZ2wc2P,Calibre 50,12188522,"banda, corrido, norteño, música mexicana, sierreño, grupera",76,https://i.scdn.co/image/ab6761610000e5ebd1300eec98eaa03843ae7cc2
+2cy1zPcrFcXAJTP0APWewL,Gente De Zona,1658663,"latin, latin dance",70,https://i.scdn.co/image/ab6761610000e5ebcda5da981e7770ec8038fb7c
+2uEjXyVi0SA1HPpj3zquXh,Noel Schajris,1146052,latin pop,55,https://i.scdn.co/image/ab6761610000e5eb052cc9b785a2fd3b9238367b
+0C5XvcSXvR6sR9gjERBXDJ,Fela Dominguez,1931,,15,https://i.scdn.co/image/ab67616d0000b2736837d356e948ab66d057ca76
+3AZ0d01dhBX5WOFIMjT2wP,Artist Cahaya Manis Music,24,,1,
+05bocKf1fUhz3scUZZKVv6,Lolita Cortes,4357,,26,https://i.scdn.co/image/ab67616d0000b2730f56deef185b9045697956ad
+69BUYvpG9MbjCyIZfsFdhJ,Reyli Barba,1939882,latin pop,62,https://i.scdn.co/image/ab6761610000e5ebc2ab48da78edcd1f929eb096
+2ihP8AdW1YpTDHbVqps56O,Eureka Woods,77,,25,https://i.scdn.co/image/ab6761610000e5eb7c328b3613815b3619d6be9e
+7jvSyAWIufPC7ijNsh2BUU,Pablo Preciado,4002,,27,https://i.scdn.co/image/ab6761610000e5ebf68167819e57468c40c1d9f8
+3t7UqWteBBmHXkcVhMSyay,Leonel García,795641,,61,https://i.scdn.co/image/ab6761610000e5ebd306a1f8449416ca2353025c
+4W2wMlq38kFgzcOOsWH5lu,Noemi Puga,27,,5,https://i.scdn.co/image/ab67616d0000b273d8fbcc8e252a71842936ab64
+5xYNmNkaWRqu3e5F4UXME8,Alfredo Olivas,9996557,"banda, corrido, norteño, sierreño, corridos bélicos",79,https://i.scdn.co/image/ab6761610000e5eb7ebbd0e2ce484936c94a7da9
+2O3v9rCTzLhPFaGaAVgZLt,Río Roma,3216656,latin pop,67,https://i.scdn.co/image/ab6761610000e5eb6ff6495627125d8d4158e64e
+1GxkXlMwML1oSg5eLPiAz3,Michael Bublé,6697085,christmas,76,https://i.scdn.co/image/ab6761610000e5ebecf79fd5be85dabb0f489107
+0Rrl4hJQjRAbGtiEwAqS5N,Alexandre Pires,702374,"pagode, samba",61,https://i.scdn.co/image/ab6761610000e5ebf46f7db29ab226dceb076209
+1Db5GsIoVWYktPoD2nnPZZ,Gloria Trevi,5842847,latin pop,72,https://i.scdn.co/image/ab6761610000e5eb185bdf929165f7d7eabc327e
+4ay2pQwnYqa44OAnWCGix2,Paula Arenas,13656,colombian pop,34,https://i.scdn.co/image/ab6761610000e5ebd40d1c24f8bcf9edf02b45a3
+0E0XPqa6BzxSkhmhvzA3k2,Matias Damásio,650772,"kizomba, zouk, kuduro",51,https://i.scdn.co/image/ab6761610000e5ebd52feae851c87d07fc9ede89
+0j8QSBQZ9MNSGjHr1Vll1R,Natalia Jiménez,1162871,mariachi,62,https://i.scdn.co/image/ab6761610000e5ebe0a005159453387986d38ce5
+2tYwhzzfvvDr29BbBFcHhB,Arthur Hanlon,8210,bachata pop,44,https://i.scdn.co/image/ab6761610000e5eba5c71df825cee0572da64fe2
+63xFjf6Ww22O5gHrBP79G9,Marcela Morelo,90137,,52,https://i.scdn.co/image/ab6761610000e5ebdef89bebcbf7beaa75c51e52
+6AcOTCYBMvjKYy4zms0kaC,Banda El Recodo,4167271,"banda, norteño, música mexicana, grupera, corrido",72,https://i.scdn.co/image/ab6761610000e5eb2de8a704feecf3bc5c4bce98
+2oQX8QiMXOyuqbcZEFsZfm,El Alfa,3897062,"dembow, urbano latino, latin, reggaeton",77,https://i.scdn.co/image/ab6761610000e5ebebc38443c371677783ebd465
+7MP4jhYmFEgb0AtiOkw55s,Play-N-Skillz,30994,,52,https://i.scdn.co/image/ab6761610000e5eb5f0e5ac64d5fec9e427d34e9
+3bvfu2KAve4lPHrhEFDZna,Lola Indigo,1465255,,70,https://i.scdn.co/image/ab6761610000e5eb353b0a0a9e686acbd382e1ea
+3NpG6SsHaQETkdQVZH6V1E,Kiko el Crazy,108402,dembow,48,https://i.scdn.co/image/ab6761610000e5eb4ca5faeb3357db1774610ce8
+71x0OO2toFjXrMRcufL9tv,Poupie,49133,"french pop, variété française, pop urbaine, french house",44,https://i.scdn.co/image/ab6761610000e5eb6824b7484aeb43f70feb62c1
+2sU7vdIXtvChlnXIcUliVe,Servando & Florentino,238394,"salsa, colombian pop, salsa romantica",51,https://i.scdn.co/image/ab6761610000e5eba3c5bfac17e68b628d01ff4b
+0ZCO8oVkMj897cKgFH7fRW,Los Ángeles Azules,8143569,"cumbia, cumbia sonidera, salsa",77,https://i.scdn.co/image/ab6761610000e5eb8d751eb2c4670d689d23734e
+3ROBnT2BmT0WBbwJCOxtRD,Pain Digital,1253,,25,https://i.scdn.co/image/ab67616d0000b2737162c6ba05ec70bd6261c737
+11YLRSsZA3YVuQQtHXKTlz,Rafa Pabön,348553,reggaeton,66,https://i.scdn.co/image/ab6761610000e5ebbb850ef582e83269a8831f88
+77ziqFxp5gaInVrF2lj4ht,Sech,12093069,"reggaeton, urbano latino",78,https://i.scdn.co/image/ab6761610000e5eb2ef2187023b7df95a70b4587
+50oHbeWPotfWlzdi4bojSU,Venesti,46075,,31,https://i.scdn.co/image/ab6761610000e5eb4b6386e2f8e1d52aecd823ad
+1dZ8JzGzmLl5KwEX3rOTc4,Tropikal Forever,16718,"mexican indie, cumbia, cumbia sonidera",30,https://i.scdn.co/image/ab6761610000e5eb25e33a550bc45e1bcc28b1fb
+5jEVtENc7lVzsqNLySdelS,Bronco,56571,"grupera, norteño, cumbia, cumbia norteña",70,https://i.scdn.co/image/ab67616d0000b2739a779f39c6c264491ab9eb31
+5ea5Ly7r7aR3kaQQteUDmg,Nesty,21315,"timba, salsa, bachata",46,https://i.scdn.co/image/ab6761610000e5eb7f418de08971e8dad047b85f
+5TcnuUD5MHBfd1cO4kweWD,Alex Favela,220451,"electro corridos, corrido, corridos tumbados, corridos bélicos",62,https://i.scdn.co/image/ab6761610000e5eb88a697fe99a1ed67c7aaf755
+34DQTRbIYPLSGU2SkOTEja,Muzik Junkies,2713,guaracha,41,https://i.scdn.co/image/ab6761610000e5eb2cc8a4af6657a18f419608c1
+3oOY07QqOUrLSEJ4AOv9rz,Elio Leiros,35681,,43,https://i.scdn.co/image/ab6761610000e5eb415f2456b1409e834987434d
+1XXUv8GRyRqOXVuDwB5QaS,Leoni Torres,123251,"salsa, timba, son cubano, bachata, salsa romantica",54,https://i.scdn.co/image/ab6761610000e5eb5af343928d98b8d571b51c44
+5T0j6On1EthT2QVNXh8vqc,Minelli,167381,,51,https://i.scdn.co/image/ab6761610000e5ebfba9f44397d3e18bc08e6849
+5059qZwA16CgTTFxWTF4Tl,Las Prez,19422,reggaeton mexa,35,https://i.scdn.co/image/ab6761610000e5eba322040c3dbd62000520eba3
+72JO7MqhlJuMCwkx4w8Afr,Jey F,68977,reggaeton mexa,53,https://i.scdn.co/image/ab6761610000e5ebcfc88e1b44c57c90603e835e
+4bBHOk8nEyfPGCZsDEEZsB,El Gudi,91798,reggaeton mexa,53,https://i.scdn.co/image/ab6761610000e5eb2319bdc82ac1fc49e97b34a1
+3C1SUHXW7THF8hkOP7Rekm,Alan Dazmel,41943,reggaeton mexa,53,https://i.scdn.co/image/ab6761610000e5eb639e674276c835882028111d
+1yX62RHdYysNcIrO33WQxJ,Dani Flow,1790050,"reggaeton mexa, electro corridos, reggaeton",66,https://i.scdn.co/image/ab6761610000e5eb31e25bc4aa9e3fd1302fe91a
+5l6N2hoIaP7snXdjnCULvk,Luis Alfonso Partida El Yaki,412200,"banda, sierreño, norteño, corrido",62,https://i.scdn.co/image/ab6761610000e5eba731e722f1485bcfac7b2268
+6twEaJ9RPRYiCmWapjG8xh,Tony Aguirre,1149602,"corrido, corridos bélicos, corridos tumbados, electro corridos, sierreño",66,https://i.scdn.co/image/ab6761610000e5eb6b5d33b89e8239a63fae5aa5
+01agtJ7Ob6B8N8jC8QvAJ6,Jary Franco,41802,"corridos bélicos, mariachi, banda",37,https://i.scdn.co/image/ab6761610000e5ebf6af9ca2011124b093bc274e
+0tvpihdAsKiNnP6sWS3jUI,TroyBoi,420074,edm trap,57,https://i.scdn.co/image/ab6761610000e5eb32bd48ff9001195c7aa31675
+0l8RtvcBMjeOqfgRSVo2d6,Grupo 5,4087736,"cumbia, chicha, cumbia norteña, huayno",63,https://i.scdn.co/image/ab6761610000e5ebd405d90528443d8d8031d4f4
+1phfTBIocBW3UwqcYjaEN6,Mike Bahía,3200718,"colombian pop, pop urbano",65,https://i.scdn.co/image/ab6761610000e5eb1e65cbb49a74e3f6ecaa8c83
+38GSybQjdc6sxptciOkxMq,Zaho de Sagazan,298697,"french pop, chanson, variété française, french house",62,https://i.scdn.co/image/ab6761610000e5eb7e1088a61b4f3b3d30f9d82b
+6o6jMpcBBv4jMOEE1Z4tlJ,Jador,556512,manele,48,https://i.scdn.co/image/ab6761610000e5eb23c9a328ce1977d8ca81d038
+1NNRWkhwmcXRimFYSBpB1y,Yng Lvcas,408546,"reggaeton mexa, reggaeton, electro corridos",70,https://i.scdn.co/image/ab6761610000e5eb5364aca9eeae7edfc94c4405
+5OIXzogZi85GrRqWR1Uw9v,All Artist Blue Squad PAN,241,,7,https://i.scdn.co/image/ab67616d0000b2739df8da7eb84607cb99fe53a9
+5SNvvu3C0tFHMXcih3NdiP,JSTJR,30647,"moombahton, bass house",40,https://i.scdn.co/image/ab6761610000e5ebf20ea9ab212ddfc1c6835577
+48R2gYdPKtfnfKAzhSVPUx,Migrantes,484450,"cumbia, cuarteto, rkt",63,https://i.scdn.co/image/ab6761610000e5ebf511f8c03d70f192f98f51a6
+0uxYECT7XqHNccQAg5Uhe4,Nico Valdi,33334,cumbia,57,https://i.scdn.co/image/ab6761610000e5ebeacfa5ca03538a5789f66be2
+18ESZ0MSceYRAY5Vwb1Bxz,La Bottines Artistiques,228,folk,3,
+5bWUlnPx9OYKsLiUJrhCA1,Jon Z,6619240,"trap latino, trap, dembow",70,https://i.scdn.co/image/ab6761610000e5ebcca7210f81c4c28fa64aca14
+1TA5sGRlKUJXBN4ZyJuDIX,Blessd,6611135,"reggaeton, urbano latino",82,https://i.scdn.co/image/ab6761610000e5ebeb0e35e9f5f6fd76ee7923f8
+36KsCCwgI0Dep97yVJWmkK,Monsieur Periné,628039,"colombian pop, latin alternative, guaracha, latin indie, latin folk",59,https://i.scdn.co/image/ab6761610000e5eb45629a5694ea26bd978b9ca0
+77AiFEVeAVj2ORpC85QVJs,Steve Aoki,3802588,"electro house, edm",71,https://i.scdn.co/image/ab6761610000e5ebcf85b39d94c486218a687248
+2ydZrTy8U3kOMOzx20s3dg,DJ Nelson,1205427,reggaeton,71,https://i.scdn.co/image/ab6761610000e5eb75bd36e435556651eff48254
+3J9eSTe3nQKjuMyoiO2XSi,Alejandro Armes,6123,,49,https://i.scdn.co/image/ab6761610000e5eb0099c46b65049453725509a0
+5eN7Z7WrzBsJNUi5LRgHP4,Master Joe,39530,reggaeton,32,https://i.scdn.co/image/ab6761610000e5eb8ca5ba448a5d63761b094928
+4o0NtnL2m0lzZmEdRas1qv,Ovi,1369230,"corridos tumbados, corrido, sad sierreño, trap latino, corridos bélicos, urbano latino",67,https://i.scdn.co/image/ab6761610000e5eb96a0b7181f6dcfef87df30f8
+4IMAo2UQchVFyPH24PAjUs,Jowell & Randy,4445942,"reggaeton, urbano latino",70,https://i.scdn.co/image/ab6761610000e5eb2ab68b2708f4007a4623f652
+0AqlFI0tz2DsEoJlKSIiT9,Emilia,4241976,argentine trap,78,https://i.scdn.co/image/ab6761610000e5ebee635c4207f0faa0e5a90f39
+6XvKTz2XRPwlry0UdjqoKq,Ghetto Kids,119265,"reggaeton mexa, reggaeton",55,https://i.scdn.co/image/ab6761610000e5eb989ff29a47d1bd0562537163
+738wLrAtLtCtFOLvQBXOXp,Major Lazer,6255855,moombahton,75,https://i.scdn.co/image/ab6761610000e5eb133f44ab343b35c715a4ac97
+4V6Om8WdDxyoHGhpfgD9Mp,Tavo Rayo,730,"reggaeton mexa, moombahton",30,https://i.scdn.co/image/ab6761610000e5eb0a3aebef27855bd0ef30097c
+2OHKEe204spO7G7NcbeO2o,Ñejo,4591516,"reggaeton, champeta",69,https://i.scdn.co/image/ab6761610000e5eba8e1d7cdd4f2225a8222080e
+1Y99HOeRzRc27my6NJE3rE,Natalie Perez,243919,,48,https://i.scdn.co/image/ab6761610000e5ebb713fd0b64b8c8263f0bab1a
+2t7vyRN71qtQT18frElAnV,Maikel Delacalle,516144,"trap latino, latin r&b",62,https://i.scdn.co/image/ab6761610000e5ebf4a9a464b6307511ba884d35
+5RJRvrfhJHpeiTRbIg1wAx,Los Farandulay,4858,,28,https://i.scdn.co/image/ab6761610000e5ebd123b5a7154b47374475469e
+2PSJ6YriU7JsFucxACpU7Y,CHUNG HA,2215138,k-pop,61,https://i.scdn.co/image/ab6761610000e5eb8a258c4d5670bdb521c97eaf
+085pc2PYOi8bGKj0PNjekA,will.i.am,4314622,,73,https://i.scdn.co/image/ab6761610000e5ebc9ab8da6f7a3ce02f0b16fd8
+4VVEpEhC8NcR7AqNEds42U,Chimbala,659121,dembow,66,https://i.scdn.co/image/ab6761610000e5eb8dae3d78c468f6ac3ac8158e
+00XhexlJEXQstHimpZN910,Brytiago,7237728,"trap latino, reggaeton, urbano latino, trap",76,https://i.scdn.co/image/ab6761610000e5eb7486acff39c8b4fced069655
+4KLOMib6zqzNayKwLWTs2Q,Andrés Torres,959,,37,https://i.scdn.co/image/ab67616d0000b2730cd4910f968fbe78df972db6
+7p3ipw2PvGG0X2x6zL1DLO,Mauricio Rengifo,698,,37,
+1Ts9of7VPZElwPQnqnDSfW,Lyanno,1654721,"reggaeton, trap latino, urbano latino",73,https://i.scdn.co/image/ab6761610000e5eb7f2df745c664488a9a2fe614
+3sito6EcNee484oIM6KHwO,La Tribu de Abrante,22059,salsa,27,https://i.scdn.co/image/ab6761610000e5eb007c31dddbd1005f6ed269a1
+6G0pYpCcx6Z8TImLnKH6KQ,Young Hollywood,6100,trap latino,26,https://i.scdn.co/image/ab6761610000e5eb30d760d380342e7452b1120e
+7iJrDbKM5fEkGdm5kpjFzS,Sensato,50418,dembow,52,https://i.scdn.co/image/ab6761610000e5eb7ee588d361ea3e897d6522fc
+3tZdknQnzsVIIdaGCTj4RX,Quimico Ultra Mega,280968,"dembow, trap latino",56,https://i.scdn.co/image/ab6761610000e5eb2a53b2608e981a8acfdd3ebe
+5RLb16s3zfrdWdRF0l7xij,Kafu Banton,87522,"spanish-language reggae, dancehall",47,https://i.scdn.co/image/ab6761610000e5eb2955ff2d99c219ce3346bdf4
+4F4pp8NUW08JuXwnoxglpN,Bad Gyal,1966889,neoperreo,74,https://i.scdn.co/image/ab6761610000e5eb839b881dfb18d4b260e88064
+7bwjYGg7DOoLpV3AFK2Jmz,Catalyna,32277,trap latino,32,https://i.scdn.co/image/ab6761610000e5ebe184692b8808a6b77f8fb674
+6NmMI7UnfmIpLRYoz8H9jm,Ankhal,383013,"trap latino, urbano latino",56,https://i.scdn.co/image/ab6761610000e5ebb75a6c83cc7054fed7ebb047
+4QrBoWLm2WNlPdbFhmlaUZ,KEVVO,572318,reggaeton,60,https://i.scdn.co/image/ab6761610000e5eb6ff3be797fcbfdb752e4df0c
+0KKUc4amZyvswV2YL6WTar,Mariah Angeliq,534227,"trap latino, reggaeton",60,https://i.scdn.co/image/ab6761610000e5eb26d64bdf9803f4e16e843b70
+2gyv1akuIB9fQvXoGSPaJr,Big Freedia,113024,bounce,46,https://i.scdn.co/image/ab6761610000e5ebda286204ffc16743f0a161ae
+1GKIlPFdcewHtpDVCQ8zmJ,Brray,598934,"reggaeton, urbano latino",72,https://i.scdn.co/image/ab6761610000e5eb5e6ea208ab08d1748f7fc34d
+6r8AR7aYfjCbNNkugkHXOF,Paulino Rey,3030,,25,https://i.scdn.co/image/ab6761610000e5ebf8ffa6cd04f3a6192ed63025
+3dxus1IoXCyGzpAy5A89Mm,Dj Korm,15,,13,
+7bVTagoBCXfxfQzGbcfy1g,Dj Ironik PR,24,,13,https://i.scdn.co/image/ab6761610000e5ebad758ae1338a751530747431
+6iUTm7foVbu3x6K7T4ZVqn,Dj Mateo PR,867,,15,https://i.scdn.co/image/ab6761610000e5eb416b7ad96e790a9e62b657bc
+1jsB2W4c9zTq9ilGXegrDM,Chris Wandell,228725,"trap latino, latin r&b",53,https://i.scdn.co/image/ab6761610000e5eb94fdaf21b522b57fbdaec3db
+4uUzwvTp4HPspdaJOn6grx,Marc Andrews,348,,7,https://i.scdn.co/image/ab6761610000e5ebbf54d5f32c5644772e98ec2e
+6fzh7nbhTUmqHUlx7a6DFW,Mad Fuentes,32551,reggaeton mexa,51,https://i.scdn.co/image/ab6761610000e5eb9e6481eea9e43a8dbb6b23e8
+1U1eSs7M2ENf09cDx4lavK,Krzysztof Zalewski,258450,,53,https://i.scdn.co/image/ab6761610000e5eb8d7b82e565aa3327c09fd56e
+0pW2iUlQnZrIkmGKjwTbzH,Samuel del Valle,2,,1,
+2n0sNCaXDutjghejBN6Pg9,Joselito Hernandez,4,,1,
+3E3qsTzCvTX13A1Zrw7Wnf,Miriam Rodríguez,208382,,44,https://i.scdn.co/image/ab6761610000e5ebfa0db01070012f625b2dfd72
+4jKvQ93sRiKroRRaAI6Fqk,Agoney,86407,,41,https://i.scdn.co/image/ab6761610000e5eb823a37dcb1a90caa04095fd7
+0CQgFG7XHyXRpSi24kl0cx,Alfred García,121236,,43,https://i.scdn.co/image/ab6761610000e5ebf16ed4e5ddacd817a3e5bc77
+0ZDAU5BLvLXTYqlrjW6KF1,Juancho Rois,126760,vallenato,58,https://i.scdn.co/image/ab67616d0000b2733ccef69da22117088fcd8104
+1WLEfsQjvgtFSGkrHonzFX,Amaia,348935,,63,https://i.scdn.co/image/ab6761610000e5eb2331b2b933df0a87382ba832
+4dwd5pUVuNVBvymNGls5dg,Nerea Rodríguez,78460,,33,https://i.scdn.co/image/ab6761610000e5eb964ee0e829242a53801acf8d
+1uj8EOCKAXn4w2TR7CVnQb,Pablo Cepeda,14709,bossa nova,61,https://i.scdn.co/image/ab6761610000e5ebe50b38e9f3aa75566cd7ad25
+0pG12y8VxBg4iFEUjVQTXo,Thalía Garrido,24309,,13,https://i.scdn.co/image/ab6761610000e5ebf59935e2998f5ec9de09908b
+6Zd2JZF0kIBpeyv2FlPh8i,Huecco,161809,flamenco pop,42,https://i.scdn.co/image/ab6761610000e5eb0934339e8937947e0bd24364
+6rRY793jdSneQ9aSy0RtMN,Marta Soto,77304,,42,https://i.scdn.co/image/ab6761610000e5eb86ab2035b25b7fe4959f95ff
+2IMZYfNi21MGqxopj9fWx8,Rels B,9059009,"urbano latino, trap latino",82,https://i.scdn.co/image/ab6761610000e5ebd1e399fd6729a5751e1f4331
+2UZIAOlrnyZmyzt1nuXr9y,Nicki Nicole,8213661,argentine trap,76,https://i.scdn.co/image/ab6761610000e5ebb4cd562b2dfbfb953c45e881
+5J7rXWjtn5HzUkJ4Jet8Fr,Alvaro Diaz,1168405,,76,https://i.scdn.co/image/ab6761610000e5ebe641b3bb66a9144858f16594
+0ZHPrnImGh4re3TbSNkoZl,Beret,3130826,,68,https://i.scdn.co/image/ab6761610000e5eb358d0cb7bf7e241430d44308
+3Zs59sqZJ6fWQqWbRC8bOP,Natalia Lacunza,233302,,54,https://i.scdn.co/image/ab6761610000e5eb8aac23373c41b102c1ddf12c
+3MRynBsyLGzv3IQ9Fip6hO,Ana Guerra,512167,,44,https://i.scdn.co/image/ab6761610000e5eb7e6dcb8a7c91726d69920377
+0P9kGWWUX38kvwbqMePLBr,RAOUL,51723,,25,https://i.scdn.co/image/ab6761610000e5eb05693cb207bc6d64c8af9884
+52iwsT98xCoGgiGntTiR7K,Quevedo,5610673,reggaeton,82,https://i.scdn.co/image/ab6761610000e5eb9fabcfc29eafa94841a28a9b
+2wY79sveU1sp5g7SokKOiI,Sam Smith,25376465,soft pop,83,https://i.scdn.co/image/ab6761610000e5ebf057d1dce23e7f4d5d0f32e5
+5lWasZeo8uWQk6GD8czJLq,Sen Senra,243842,,63,https://i.scdn.co/image/ab6761610000e5eb4897826949d01d40840c3ec3
+5UN0rzL594mWY2RbOtZqIN,Ptazeta,188924,,56,https://i.scdn.co/image/ab6761610000e5ebd1bc4542ddbef775ca08fd70
+7dL0nOHwnSAsNAwpkPSGWP,sangiovanni,838514,,53,https://i.scdn.co/image/ab6761610000e5eb38cc4f19a12bd5d013f681fe
+5XsWrYhwadPBjW20qYbdZg,Moderatto,1026593,"rock en español, mexican rock, latin pop",61,https://i.scdn.co/image/ab6761610000e5eba2bb7c400bbdd36de742e9fc
+0TeVa4xdLB8vdzjsvKH6Ri,Anahí,776491,latin pop,67,https://i.scdn.co/image/ab6761610000e5ebb67c7d6132d95274bccc4657
+6kaefrHSdAvxhhCVDFTCEL,Dulce María,748600,latin pop,67,https://i.scdn.co/image/ab6761610000e5ebfe28a7d8e4843185b61b9826
+6ModsWtBph2rE6zCTVxvZt,Maite Perroni,1200881,latin pop,67,https://i.scdn.co/image/ab6761610000e5eb6f561a1ff5ae441d0577a34c
+0aMqt2uGLuHj4eI8oXgVzN,Christian Chávez,186902,latin pop,67,https://i.scdn.co/image/ab6761610000e5eb2ac8e1505de5a66b2bd9c131
+5O8cudluftNZ6PCwRzvYxo,Christopher von Uckermann,147770,,67,https://i.scdn.co/image/ab6761610000e5ebdbf915391a107cabb32a9e1a
+0veZkZPeWoJQ9gt6VAXlkN,Alfonso Herrera,9468,,67,https://i.scdn.co/image/ab67616d0000b2735c01f000c3d60a468bf61181
+6JaOGIlSvYswVLPmGUheOO,GARABATTO,30555,,56,https://i.scdn.co/image/ab6761610000e5ebc538a3f85906a7baa17fdd95
+1XEVu7gdRFfzEFqsPrancH,rusowsky,185293,neoperreo,60,https://i.scdn.co/image/ab6761610000e5eb69a53a8129ac9e5299971a03
+5N3YDBGT2gUzXgLDTwPRi5,Álvaro De Luna,185595,,59,https://i.scdn.co/image/ab6761610000e5eb3a02643e8e1f567c14b8848c
+7c53ZFyajVMTo08HmvoB6b,zzoilo,109247,latin pop,59,https://i.scdn.co/image/ab6761610000e5eb20fd7b40adc1b615cc1d71b4
+1fURW117sgaPpgIoz8YLXW,Fresquito,13939,,37,https://i.scdn.co/image/ab6761610000e5eb98673fadf9803ad5e8a9b141
+4MrQDA45Gd0llLrwFUzimG,Flawed Mangoes,584044,,68,https://i.scdn.co/image/ab6761610000e5ebbe98e09229463771dcb2a3a7
+6jJ0s89eD6GaHleKKya26X,Katy Perry,36204610,pop,85,https://i.scdn.co/image/ab6761610000e5eb0988562f78810e47a6e3325f
+2o5jDhtHVPhrJdv3cEQ99Z,Tiësto,7730285,"edm, trance, big room, house, dance",82,https://i.scdn.co/image/ab6761610000e5ebe84e08fb1dfa2bf9b5a61563
+4PzYKhC14sTJNEr0dzoo0d,Luísa Sonza,6398701,"brazilian pop, funk pop, funk",75,https://i.scdn.co/image/ab6761610000e5eb8e3bc9d6d6b1e59e32a87cd6
+6w3SkAHYPsQ1bxV7VDlG5y,Cazzu,7560262,"argentine trap, trap latino, turreo, trap",76,https://i.scdn.co/image/ab6761610000e5eb543f7b205d7db7568d5e00c3
+3RtNN1VnooWEn3KQk03DUL,Noriel,8267256,"trap latino, dembow, reggaeton, trap",76,https://i.scdn.co/image/ab6761610000e5eb76986713496efc3717ce32ee
+2bxxlINUlcMQQb39K7IopR,Abraham Mateo,1567975,,65,https://i.scdn.co/image/ab6761610000e5eb82f41b1b72a445689e86d1c1
+0pkwrPVI8UyXtPkavyJoZ4,A.CHAL,175716,,45,https://i.scdn.co/image/ab6761610000e5eb26c31eeaaf2bd9e907300568
+6tzRZ39aZlNqlUzQlkuhDV,Pabllo Vittar,4333559,"brazilian pop, funk pop, tecnobrega",71,https://i.scdn.co/image/ab6761610000e5eb1bd98f890c7df79547160c27
+0DjGDEVSQsodFbL1bMVPRs,Miranda,114570,,53,https://i.scdn.co/image/ab6761610000e5eb8452f991ee028b2099f8bd7d
+3ou3XMRNmyDSy6gnC1bSgN,TAICHU,171629,"neoperreo, argentine trap",51,https://i.scdn.co/image/ab6761610000e5eb3a32d8607f00e8ed6638ac5b
+2orYYsuKaizxVVHh9ygO9x,Cachorro Lopez,4210,,43,https://i.scdn.co/image/ab6761610000e5eb0b6f640de1910005831677e1
+2z1MpPojFcvxYcEAx0lT6w,Vicco,120759,,54,https://i.scdn.co/image/ab6761610000e5eb6230315d35c6867a0ca6223c
+0K59Fm1y7s3j498ueS4qzY,Soledad,774187,"folklore argentino, latin folk",57,https://i.scdn.co/image/ab6761610000e5eb5914c48d40ee28fe0074d426
+0Uit4gta4PrT7HvUe8W2Xo,Natalia Oreiro,81856,,42,https://i.scdn.co/image/ab6761610000e5eb5b96ad29ef5b2381c3cede5b
+2tY2GFdhH0Wa2VBvsxew5X,Alex Ubago,2677583,latin pop,67,https://i.scdn.co/image/ab6761610000e5eb771399a6f8fb2feed554daf7
+4RSyJzf7ef6Iu2rnLdabNq,Willy William,270420,,65,https://i.scdn.co/image/ab6761610000e5ebb1c62ed15ffe2bc67a633601
+3mOd9j63D2DAPnOzQBJhQJ,CD9,765811,,52,https://i.scdn.co/image/ab6761610000e5eb001c8cc4e95efc97252efaac
+6k8mwkKJKKjBILo7ypBspl,Ana Mena,1010098,,65,https://i.scdn.co/image/ab6761610000e5ebd9896c0931160e24328f2f5c
+0GWdY55YF6xzN5L1A0X8nq,Pitizion,122191,colombian pop,45,https://i.scdn.co/image/ab6761610000e5eb5afcc391d8e3876040a109ed
+2TQ4CGgxxCWHqa9yYIGDoU,Big Soto,1134486,"urbano latino, trap latino, mexican hip hop",62,https://i.scdn.co/image/ab6761610000e5ebef399031792d1554a21be643
+11wOrJLuakmQqTuhXXW2xz,Sie7e,83302,"spanish-language reggae, colombian pop",47,https://i.scdn.co/image/ab6761610000e5ebfd3cbe6340bc5a38232ee059
+6CxqJ4K3JEBR1fz2lQJNN1,Nicole Favre,30571,latin r&b,30,https://i.scdn.co/image/ab6761610000e5eb169d5721ac090a013e452df7
+5xS8cfsAaFyy188dNJGDbM,Ela Taubert,320016,colombian pop,66,https://i.scdn.co/image/ab6761610000e5ebfb16dd37aa97bd8e2d526163
+6X8uzem5Dbl4l2so4CeexD,Nil Moliner,264463,,59,https://i.scdn.co/image/ab6761610000e5ebd5cb8afa228157d9b8c63de1
+1KfRf4VkEYpL2G0FTWb7JX,TIMØ,169745,colombian pop,57,https://i.scdn.co/image/ab6761610000e5eb9ba2d8a4dbf868e7c6481942
+6lYSDSFhJyUV6CtNix2fBA,Al2 El Aldeano,394253,latin hip hop,58,https://i.scdn.co/image/ab6761610000e5ebf3da85f476bba22299f3eb6e
+0PlTbBrPOOOmJzprmZ4cdM,Itzza Primera,65388,"guaracha, bachata",35,https://i.scdn.co/image/ab6761610000e5eb58ba616265e6236670f16058
+4j0Oi9KU6tQB5SV80mQNHO,Andy Clay,566,,30,https://i.scdn.co/image/ab6761610000e5ebe1d03849a707120298889e4d
+75f5Och3JFaYplIDkeM0J6,ELG Emanuele Artista Sociale,1065,,10,https://i.scdn.co/image/ab6761610000e5eb84dc70ab35dc012d80da6321
+3ATyg4fGC9F8trfb0GRWmX,Joey Montana,2696769,reggaeton,59,https://i.scdn.co/image/ab6761610000e5eb7c2c597ef0d4aaa8c8eb1822
+5NS0854TqZQVoRmJKSWtFZ,Chino & Nacho,2975827,"merengue, reggaeton, latin",66,https://i.scdn.co/image/ab6761610000e5ebcd07df3b3284d11536a1b00b
+70YTbHC7IlTl4EId7bDv2v,Byron Salas,5372,,16,https://i.scdn.co/image/ab6761610000e5ebc9a62287e0e3c20e1db62398
+1JHgX0v8Dx86wpfQkZuJFg,NOREH,73290,,56,https://i.scdn.co/image/ab6761610000e5eb0a3dc0f49439c216bc36a078
+31VFEohvhOUKrtAONEBhMG,Kenia OS,5999882,reggaeton mexa,73,https://i.scdn.co/image/ab6761610000e5ebdcb3728154b37101ca529ad7
+1SflmlTg1rQ6pTBQ1CbWEP,Nicole Zignago,38136,,48,https://i.scdn.co/image/ab6761610000e5eb594d764f5d423d4bd18f0d00
+2SzdXGFgRUgygnqrqmsW9W,Alejandro González,38010,"colombian pop, popular colombian music, ranchera",42,https://i.scdn.co/image/ab6761610000e5eb845d929af6fc38dfb70ac27a
+70psacNWL8yL2MPne6sgaB,Wamba,60347,colombian pop,33,https://i.scdn.co/image/ab6761610000e5ebdf2c114cfe6a9dbc410334cd
+1PNgAcUW6UgN59okEaTpvG,McKlopedia,311788,"latin hip hop, spanish-language reggae, mexican hip hop",56,https://i.scdn.co/image/ab6761610000e5ebaab31f2d0a842d70d260c663
+5MgAfWCS0vzouE9lVzwjJy,Omar K11,58832,,37,https://i.scdn.co/image/ab6761610000e5eb31f2fc33c37b08373e7678fa
+10IxurTiAiRppIUcayF5iV,Jordy Jill,16036,colombian pop,23,https://i.scdn.co/image/ab6761610000e5eb91308dec990314fc6f760f5d
+0qeOMneLDwmcxGM2CuFnfq,OKAAY,38641,indonesian pop,45,https://i.scdn.co/image/ab6761610000e5eb341fef48903c4e5ade1f7092
+7eH1UUCyxL8Wf9PztvvPJ6,Arce,366590,,56,https://i.scdn.co/image/ab6761610000e5eb12a46f4c57418cbea452e729
+2NfSBtmWe7oPw1EmetJVso,Boza,766957,"reggaeton, urbano latino",68,https://i.scdn.co/image/ab6761610000e5eb67e69bfa7e97cd5c2d35f032
+5sK8BsvyDl4TFA6KaBf8or,Charly Black,355453,"dancehall, soca",62,https://i.scdn.co/image/ab6761610000e5eb9a2d905368962946b801cfd8
+1GAymyGBvB4gQy5Z5LZ1Wj,Lalo Ebratt,1925008,reggaeton,63,https://i.scdn.co/image/ab6761610000e5ebd309b94c82f84de05bf161be
 1mcTU81TzQhprhouKaTkpq,Rauw Alejandro,26766596,"reggaeton, urbano latino, trap latino, latin",90,https://i.scdn.co/image/ab6761610000e5ebb271c8a0507c4c1ea795d989
-4kYSro6naA4h99UJvo89HB,Cardi B,25093473,,79,https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31
-4xe6s55EDjpRpyZsrFoiWh,Haraca Kiko,117372,dembow,42,https://i.scdn.co/image/ab6761610000e5eb16618118b1620d7e10176e8f
-5lwmRuXgjX8xIwlnauTZIP,Romeo Santos,24491217,"bachata, bachata pop, latin",84,https://i.scdn.co/image/ab6761610000e5eb6d8b48abede0f9e433aa6e49
-6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,108014958,,94,https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da
-0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,37189352,rap,92,https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71
-1i8SpTcr7yvPOmcqrbnVXY,Ozuna,38166951,"reggaeton, latin, trap latino, urbano latino",86,https://i.scdn.co/image/ab6761610000e5eb463e10d5f1a533ddd6eb9a04
-1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,37946338,"reggaeton, latin",87,https://i.scdn.co/image/ab6761610000e5ebdea08796d296a58c5d060439
-1oMiDFyAgmIzw9ZBQYHOJI,El Guincho,63467,drill,57,https://i.scdn.co/image/ab6761610000e5ebbb7b34620040b2deefef3d3a
+20wVbiNfUVuEk65xH1qASz,Natalia Bautista,129,,15,
+2pg3wL9rxgUzpJDYCBTlt1,Nicolas Mayorca,12139,colombian pop,33,https://i.scdn.co/image/ab6761610000e5eb1f900965bb573c04721c77c7
+37J1PlAkhRK7yrZUtqaUpQ,Caravan Palace,1119347,"electro swing, swing music, nu jazz",60,https://i.scdn.co/image/ab6761610000e5eb4c74162a4233c9ac70581ef2
+2DZsabXAIQY8oIslZlYvLw,Felipe Santos,23493,,32,https://i.scdn.co/image/5e5ee10f7b9e6057f319415e87724762a51a195b
+23tff6P55wGMXtURlJ7wlv,Lucca Perotti,73,,15,
+18hKOU7V6CMlNi91o8sORM,Tatiana Klauss,88,,6,https://i.scdn.co/image/ab67616d0000b2735431e2d46a121cddc26a2efb
+15YU7fAg5Aqw5cjRHfoXJE,Daniel Maldonado,61,,7,https://i.scdn.co/image/ab67616d0000b2735cc0afa7eb9c19468d265947
+5EvFsr3kj42KNv97ZEnqij,Shaggy,2349180,reggae,72,https://i.scdn.co/image/ab6761610000e5eb356dc7e9ba8792cb86a0c50c
+6E94QKXZv8BbO6QQJxcxLI,Daviles de Novelda,290864,"flamenco, flamenco urbano, flamenco pop",60,https://i.scdn.co/image/ab6761610000e5eb1e703a6d70eb89c7b96499f7
+53KTldaJ8tHSkYU3nigfwP,Fonseca,3280537,"colombian pop, latin pop",69,https://i.scdn.co/image/ab6761610000e5eb7224f290565789e2034b1480
+6vVKjeD0dvsg5EVMEUxI1l,Carmen DeLeon,53082,,50,https://i.scdn.co/image/ab6761610000e5eb5eb123bb8f404d6efb844921
+6sFoObgl1BzplimWTBt6sD,Tarik Jazzy T Thompson,2,,11,
+65c5si0ePAwkOCn4M35Ho7,Sérgio Mendes,238912,"brazilian jazz, bossa nova, samba",61,https://i.scdn.co/image/ab6761610000e5eb4a4e4f875283deb63d57f4ce
+5lKZWd6HiSCLfnDGrq9RAm,Leona Lewis,3678980,,66,https://i.scdn.co/image/ab6761610000e5ebe9cf3862b8027eb5b9f6b831
+6nVcHLIgY5pE2YCl8ubca1,JHAYCO,8529211,"reggaeton, trap latino, urbano latino",81,https://i.scdn.co/image/ab6761610000e5ebcc45cb8a69f59976e2895b8c
+49Z1AvGeUaBSanPaOmplK6,Andrés Cepeda,3593058,"colombian pop, latin pop",64,https://i.scdn.co/image/ab6761610000e5eb25de1d6752a7d8f120f821ca
+3EiLUeyEcA6fbRPSHkG5kb,De La Ghetto,7536735,"reggaeton, trap latino, urbano latino",77,https://i.scdn.co/image/ab6761610000e5eb8cd579cb09a5cbe6560bda53
+1dbp04JzZ81JXlMGupCnJ8,Antonio José,574847,"flamenco, flamenco pop, bachata",59,https://i.scdn.co/image/ab6761610000e5eb93ad2feae7631e417144e64c
+00me4Ke1LsvMxt5kydlMyU,Cosculluela,6516519,"reggaeton, trap latino, latin hip hop",75,https://i.scdn.co/image/ab6761610000e5ebf023bccf9a510b84294b3956
+5vLOlJcOKe9DfBC5LeLpSs,Lucas Arnau,293736,"colombian pop, latin pop",46,https://i.scdn.co/image/ab6761610000e5eb388a182c8b2177b332b664a7
+4mZ4qW2RrJS1nmHvltMvJ2,Bonka,244751,"colombian pop, champeta, latin pop",39,https://i.scdn.co/image/ab67616d0000b2733edfcbb13ee5708ea839d8eb
+01RWu7yf1vE3eZvtxcRxkf,Kevin Florez,139266,"champeta, colombian pop",48,https://i.scdn.co/image/ab6761610000e5eb01515ede66e253676a573097
+7j6DKwmjbxvpQO8h914uEz,Ryan Castro,3711339,reggaeton,79,https://i.scdn.co/image/ab6761610000e5eb6161a61c5f4a96af952a79c0
+1MS4MMgPaQ0WyM0u0Uj3EO,Elkin Robinson,7523,colombian pop,27,https://i.scdn.co/image/ab6761610000e5eba9e25ab7cf3b4895c8138cce
+2jnXHPCEsDhTBvkbOdlO1e,Elenco de El club de los Graves,1084,colombian pop,18,https://i.scdn.co/image/ab6761610000e5eb03943fd7f34162a98b659a7a
+719A9QNZmkVRQ9SPMpcD89,Kevin Bury,8371,,32,https://i.scdn.co/image/ab6761610000e5eb2f5f901066a5d04e835f3621
+1v9kf7INYxMyy6R792mKYJ,Julián Arango,208,,2,
+3vcY5vaGqSQF6UA9N2iC4L,Mees Salomé,25658,"melodic techno, melodic house",40,https://i.scdn.co/image/ab6761610000e5eb74b50d1735940bbc925b0ef3
+5Cz6siZfXjAbjBUe38wLzh,Catalina Polo,11,,3,
+35hT44pi6dUptXXcwWrZ2p,Maria Fernanda Marín,106,,3,
+0ZOBoPnDaGxvjZ4a1Rw5Mw,Gregorio Umaña,203,,4,
+5YV38PTIHBe8vmVm7zZe0S,Manuela Duque,38,,2,
+2aSbTnwgEMnlXQRN4aZ5qW,Elena Vives,256,colombian pop,23,
+3upEZ708pw1e9I1P78KGWL,Martín Velilla,115,,3,
+5bO3JDLXVovN4Wwt76SlcP,Joan Alison Gilmore,0,,0,https://i.scdn.co/image/ab67616d0000b2738cee6013590d2d3b2114a6e8
+6tkyhGe9hGI3Lcfo4gVh6Z,ChocQuibTown,686902,"colombian pop, latin alternative",52,https://i.scdn.co/image/ab6761610000e5eb271d08d5b2a06315a3934fa6
+7slfeZO9LsJbWgpkIoXBUJ,Ricky Martin,7796405,"latin pop, latin",71,https://i.scdn.co/image/ab6761610000e5eb1c0f358293ec7b223fd91fca
+1bZNv4q3OxYq7mmnLha7Tu,Fito Paez,1995418,"argentine rock, latin rock, rock en español, trova",66,https://i.scdn.co/image/ab6761610000e5eb5822a9eab577a43cfa1ba9ca
+1aw0Cdl1DIrtUrUA6fGbAR,Dread Mar I,2826964,"spanish-language reggae, reggae",71,https://i.scdn.co/image/ab6761610000e5eb39fd3a6442b87feaa2d55fe0
+22CvgjvwICkeXjcYWLykD3,Katie James,31944,"nueva trova, latin folk, trova",33,https://i.scdn.co/image/ab6761610000e5ebdced3d87a2c5844535b0fa11
+3tuushgEVJSXAkxR4ZxOhJ,Milly Quezada,169640,"merengue, bachata, música tropical",41,https://i.scdn.co/image/ab6761610000e5eb2bfd8fee135f7de2198e5079
+4NcBSpTIAyLVHArLQKGNd7,Jandy Ventura,2531,"merengue, música tropical",18,https://i.scdn.co/image/ab6761610000e5eb735d1c6510a494e83f789664
+1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,8782508,,80,https://i.scdn.co/image/ab6761610000e5eb6abca3789c7f4826ed99db2e
+4yLRkOFGOz0zUlQ2AkjzAm,Cholo Valderrama,61033,,41,https://i.scdn.co/image/ab6761610000e5eb9076745c2fdbb85039075996
+43lUyQqEFsrEHtnqDUcYwk,Clemente Mérida,56,,7,https://i.scdn.co/image/ab67616d0000b2731717496604d74bf71d7d2bc7
+0o0rlxlC3ApLWsxFkUjMXc,Ziggy Marley,1262058,"reggae, roots reggae",55,https://i.scdn.co/image/ab6761610000e5eb2ff8a94ee073f8024665826b
+5u1QKYPcO8wQj4w02NiZZQ,KOGIMAN,218,colombian pop,14,https://i.scdn.co/image/ab6761610000e5eb1344c231d2c885456aa4b103
+2B8vGTY8HOEr0Vms29broY,Kombilesa Mi,6834,champeta,22,https://i.scdn.co/image/ab6761610000e5ebc9c9cc71418444685c6f24ea
+3KedxarmBCyFBevnqQHy3P,Jessie Reyez,1459456,,67,https://i.scdn.co/image/ab6761610000e5eb9e801308a8c99d52a7f14374
+3BQDgh6CjxVXMhy00YEx3G,Uji,17746,,36,https://i.scdn.co/image/ab6761610000e5ebfb58dbb4463458c598c60fb7
+7wU1naftD3lNq7rNsiDvOR,Paul van Dyk,469809,"trance, progressive trance",56,https://i.scdn.co/image/ab6761610000e5ebf35904b11572a8e8203064de
+05TxO5YivuYiXuGjdFYbez,Noahmusyc,30,,2,https://i.scdn.co/image/ab6761610000e5eb9bc176c1c9c48c657c10a8f4
+0JhEQCye3jwTzJjIrS5Ik6,Teto Ocampo,253,,2,
+5p1MGIt0C8dtKjIjpIUFhK,Papá Kumbé,2994,,15,https://i.scdn.co/image/ab6761610000e5eb57cbf2991fae7e90100ab92e
+3Ww1Vct7dZt13PuqcDppMc,Ok Reverie,397,,6,https://i.scdn.co/image/ab6761610000e5eb5b9f70d6468f4b3e8d084203
+6eMkXKBw1J8yHWzSE5jy5P,Rodrigo Tenjo,0,colombian pop,6,
+6E8vZ5lkpXbXlkgHhbVJSl,Chancha Via Circuito,154409,,46,https://i.scdn.co/image/ab6761610000e5eb3052e110ebef3c0aaaaa7d5a
+1I7FVmvisCtSFzmm87mbLR,El Búho,167560,,54,https://i.scdn.co/image/ab6761610000e5eb9c82f4e14aac9d4c3eeed987
+0n6sKrG0xKAf8xmdqeNGke,Los Legendarios,88788,reggaeton,58,https://i.scdn.co/image/ab6761610000e5eb5326e64f94dea6f77ebc45a9
+6iD27d3Ke9nGzKLhbBSK9l,Juan Pellegrino,62,latin hip hop,7,https://i.scdn.co/image/ab6761610000e5eb349f21a56d15ba4ffa1051ed
+5BwMgvRwlq61SmknvsVIQj,Rubén Blades,1758057,"salsa, salsa romantica, latin jazz, merengue, son cubano",63,https://i.scdn.co/image/ab6761610000e5ebdea0cd678edd47fe4b31e3c7
+0EmeFodog0BfCgMzAIvKQp,Shakira,36844052,"latin pop, latin",86,https://i.scdn.co/image/ab6761610000e5eb2528c726e5ddb90a7197e527
+0ZmLQD0JMILG9pXpHLTfaw,Cynthia Montaño,1735,,16,https://i.scdn.co/image/ab6761610000e5eb449242f833ae3abc0360e26b
+6xx9qZgvt1b1X2D0fohJAn,Río Grande Music School Chorus,26,,10,
+2kEU1NNJORHNJabD0tdO1E,Prince The Artist Singh,5357,"hindi hip hop, desi hip hop, punjabi hip hop",16,https://i.scdn.co/image/ab6761610000e5eb20fa149bac34fd606f770f8d
+1sDVuztNhGcetCLChkleDA,Michel Teló,2990281,"sertanejo, sertanejo universitário, sertanejo tradicional",59,https://i.scdn.co/image/ab6761610000e5eb04f64ef5cf013f38ae29e8ec
+4VMYDCV2IEDYJArk749S6m,Daddy Yankee,36592204,"reggaeton, latin",86,https://i.scdn.co/image/ab6761610000e5ebaa534de724c7a565c07bb3f5
+6GRC8segVAr34gm6pjfSoQ,Fanny Lu,1227979,"colombian pop, latin pop",60,https://i.scdn.co/image/ab6761610000e5eb19b12d5ac4cb1091a388fc89
+3aeY1LxKK63GRg7tmI8UVa,Herencia de Timbiqui,160396,"colombian pop, salsa",49,https://i.scdn.co/image/ab6761610000e5eb919fcb0acd5a473294730cc4
+1RF7XDsk6Su1qdIJoXa0Qm,Jorge Hyman Archbold,3,,12,
+56WwKhBsxrWjpwXvJVLAjZ,Andrea Echeverri,85589,latin alternative,40,https://i.scdn.co/image/ab6761610000e5ebf559387c085a55117720c127
+0Ker0l1n6dzgGNgz3igStF,Coral Group,213,,33,
+5kn7l4yaJxtNhj583LmL9L,Gaby Amarantos,58082,"tecnobrega, brega, nova mpb, brazilian pop",41,https://i.scdn.co/image/ab6761610000e5ebb4f1b11d260ea1e2a6647ccc
+4EU2koSlyxLmiyslykCis5,Monobloco,152007,"samba, axé, pagode",48,https://i.scdn.co/image/ab6761610000e5eb24de2b35fadd221a68ff90e5
+73Tg5BxH6c3D3C6qIrkrmB,David Correy,42090,,35,https://i.scdn.co/image/ab6761610000e5ebc45d06ca8f7c60e2aaa805be
+1JAk98r1t50BVglMNC9Nny,A&X & Link-On,13,,6,
+3OcvS8PzSGYMBvLdzY6g3e,Silvestre Dangond,5407580,"vallenato, colombian pop",67,https://i.scdn.co/image/ab6761610000e5eb5399dbc33058bc9988deecb9
+5soMpG6E6oApEiCZgrWeVz,Rozalén,878627,singer-songwriter,62,https://i.scdn.co/image/ab6761610000e5eb5a52ade9f0ab0caa1898389f
+3MqjsWDLhq8SyY6N3PE8yW,Aterciopelados,872183,"rock en español, latin rock, latin alternative",55,https://i.scdn.co/image/ab6761610000e5eb217a70a5b7597cb708d6e8d9
+0LALueHEQunQ2d61fXGeZh,Diego Torres,2297890,"latin pop, colombian pop",64,https://i.scdn.co/image/ab6761610000e5eb5d29321fd913ea9823f2d104
+3w3qzXCQjVBeNLQJPC7QEl,DJ Marimonda,43,,15,
+5Gh9uPYIT29qh7L6BAaorA,El Elvis Cienaguero,35,,15,
+2CnJJITnV40TB5UtCRhwIZ,Wakyin,32769,"afro house, latin house",57,https://i.scdn.co/image/ab6761610000e5eb0323f375055b8be1ec1d9b9e
+2RPNbhguRnI9uqahGYcUc6,Eruca Sativa,133516,argentine rock,40,https://i.scdn.co/image/ab6761610000e5eb73543a0e47836cb4db8cc22e
+2D7U9dHCWT8jO6cEtf3LaC,Mikea Mada,33,,3,https://i.scdn.co/image/ab67616d0000b27327bc71ea3c1c18f8bc4fdf55
+71miEAUvClO9XgUdy6dqnZ,David Kawooq,781,spanish-language reggae,17,https://i.scdn.co/image/ab6761610000e5eb163ec768d7a4f5ee759305ab
+5E1vOnaDVuBXGt21yY7f01,Plutonio de Alto Grado,17505,,31,https://i.scdn.co/image/ab6761610000e5eb58c2a71f3eaac99efe7addb8
+4kgb3OUSqj61KLjxydJPLD,Lewis Picket,14,,11,
+2DspEsT7UXGKd2VaaedgG4,Alex Rose,4188301,"trap latino, reggaeton, urbano latino",70,https://i.scdn.co/image/ab6761610000e5eb69c83765b128d11ae87700d2
+5VdG4Pm8hryqK7jAkdFlIo,Cheo Gallego,122715,,47,https://i.scdn.co/image/ab6761610000e5eb2376b215ca8c816bc32d2648
+1cyEMpyEQatd4xre5reEcR,Sin Animo De Lucro,66328,colombian pop,36,https://i.scdn.co/image/ab6761610000e5eb8d82628b5d82dde0a8e82483
+5jxVsaFreexOv9fypQsdEX,JBot & Tuti,2757,colombian pop,32,https://i.scdn.co/image/ab6761610000e5ebbe985bc22fe96228f3b6b9f7
+7A02nc5WKMBLqSKXxGZ4o8,Llane,80041,"colombian pop, pop urbano",45,https://i.scdn.co/image/ab6761610000e5ebcac508fac929ad50bf42dbd1
+39YL6FS5gUvd8DCTV9FfSP,Jerau,153775,"colombian pop, latin pop, latin",42,https://i.scdn.co/image/ab6761610000e5eb52ebdae5c9658aef0af0d50e
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,43974729,,86,https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4
+001TRduQniM6dsJbQpMsbJ,Javier Limón,28213,"flamenco, fado",36,https://i.scdn.co/image/d49f28acc96abee0d54e9d1d45f0b9ad060adef4
+1mux8L6xg2Cmrc7k0wQczl,Bacilos,1954276,"colombian pop, latin pop",66,https://i.scdn.co/image/ab6761610000e5eb2ac7dc75e8e0ba7ae2e03158
+3H3tAXUPcjlug4VEa5RSfw,Billo´s Caracas Boys,39,cumbia,3,
+1nh1tWk4ZqRPrl0XqICYgn,Velo De Oza,2519,,19,https://i.scdn.co/image/ab6761610000e5ebf13ae87b8f50bee93df70829
+15g2N69hNuvVjSUqa9Entz,El Gran Martín Elías,470452,vallenato,53,https://i.scdn.co/image/ab67616d0000b27360fa3cc40bc874c59ebb8cc0
+6tiRwsuega5ughhQTyta7A,Alfonso Zuleta,2573,vallenato,21,
+36nvA2snEFUkDbg5qI0ZiG,Jorge Oñate,1044006,vallenato,47,https://i.scdn.co/image/ab67616d0000b273c1d2d0ae71ae965864f4f5b1
+6dexNK5MjEL8UvmA5MjSgg,Felipe Peláez,1667363,"vallenato, colombian pop",56,https://i.scdn.co/image/ab6761610000e5ebbc5af9dec3d59aba54b468fa
+5p1D7KgsRRcS9gpQyRARrL,Peter Manjarrés,1000797,vallenato,51,https://i.scdn.co/image/ab6761610000e5eb8f933777adcd6eaaf96acef6
+7rNbdH4pgrnwguvzxhA2Ek,Jorge Celedón,2067125,vallenato,60,https://i.scdn.co/image/ab6761610000e5eb1ac9634005aeec00e7435402
+0gudLEFCyMFIBCt1EQaMh7,Ivan Villazon,1086266,vallenato,51,https://i.scdn.co/image/ab6761610000e5eb1c0e00cd9228d96cf7eb351d
+7npqy7rgdX2D3yfVyWExKo,Angel Y Khriz,1144712,reggaeton,64,https://i.scdn.co/image/ab6761610000e5eb4f12341242c8c3167d5c2ae2
+0fuEzqNxSprqSv18ngJtpT,Gonzalo Lopez,17,,12,
+6iruqoplIhH7VmvMQV1wDM,Toy Selectah,11930,"moombahton, cumbia sonidera",33,https://i.scdn.co/image/ab6761610000e5eb9482ff6b1d30e789827117ea
+7fq2EiskNq6a1WCI6XRcJX,Manuela Morales,108,,17,https://i.scdn.co/image/ab6761610000e5eb693d0e670baae2fa170a73d3
+2mi9HBpuOnJGhganiPOdbs,Alan Rosales,2483,reggaeton mexa,21,https://i.scdn.co/image/ab6761610000e5eb2ada5a08d295afc629d85957
+65VADjjC47dZbyOyrgNWJA,"Gocho ""El Lápiz De Platino""",7459,reggaeton,58,https://i.scdn.co/image/ab6761610000e5ebbbcbd1acf309e6ecea53ed9c
+3h8OjAdgYXVRoMZ8jFd6Uw,Paco de Lucía,586655,flamenco,54,https://i.scdn.co/image/da661057b736c36095e5db589993654fef887cb9
+2gPs72TW2A2OUSxzFbetKa,Sara Baras,588,flamenco,18,https://i.scdn.co/image/ab6742d3000053b74f4e0074f56b0f3c24506a64
+0bRA7yc2HoHB9wJ7BOGpxm,Sara Flamenco,27,,6,
+1kIhLEReILzOxoOFziBi12,El Carpeta,30,,9,
+4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,34631150,pop,80,https://i.scdn.co/image/ab6761610000e5eb76470faf6330235edbcb90a9
+5GcWBUX00IPuWVGMIRK1sS,Residente,1527833,latin hip hop,62,https://i.scdn.co/image/ab6761610000e5eb5bda9ce5834fff3c8baa646f
+1ImywUogV5mfqWMyXEvkgE,Judit Neddermann,31653,,37,https://i.scdn.co/image/ab6761610000e5eb84a5ee66fd2990a428ec6264
+2e4nwiX8ZCU09LGLOpeqTH,Laura Pausini,2711723,"latin pop, italo dance",72,https://i.scdn.co/image/ab6761610000e5eb102bbbb1f908fd139e98c510
+3Xr9mJLTpZOcV3f9oSvR78,Coro Safari,47,,15,
+1YVEF2N8QHkkQ84LM51Xyo,Antonio Carmona,136162,"flamenco, flamenco pop",55,https://i.scdn.co/image/ab6761610000e5eb8853c3345e2544808a2c4f90
+1mX1TWKpNxDSAH16LgDfiR,Jesse & Joy,9393621,latin pop,74,https://i.scdn.co/image/ab6761610000e5eb20681c5c3fec528fe11a1646
+2KftmGt9sk1yLjsAoloC3M,Zucchero,1097571,"italo dance, italian singer-songwriter",63,https://i.scdn.co/image/ab6761610000e5eb967dd0c95ee595677b514256
+1nca3OA1kKCpP6aPJcBL92,Paula Fernandes,1375523,"sertanejo, sertanejo tradicional, sertanejo universitário",64,https://i.scdn.co/image/ab6761610000e5eb433dc6a228eba43cfd0ff071
+7sfgqEdoeBTjd8lQsPT3Cy,Emeli Sandé,2177271,,61,https://i.scdn.co/image/ab6761610000e5ebf26a49a45ad43119b4409d7c
+7LnaAXbDVIL75IVPnndf7w,Jamie Foxx,1283087,,69,https://i.scdn.co/image/a3823abbd476fa00cdf95a9f5cbbe09d2f96add2
+3XxxEq6BREC57nCWXbQZ7o,Jamie Cullum,542127,"vocal jazz, jazz, jazz blues",57,https://i.scdn.co/image/ab6761610000e5eb5ea05545f2d4f1d5135da9df
+22qtlzmClujRyRdLVVN1ED,José Carlos Gómez,2959,"flamenco, flamenco pop",18,https://i.scdn.co/image/ab6761610000e5ebf4d9870de5edd25f0448a8bf
+4eBTqTx5ssOK5YwmijmfU4,Manolo Garcia,657869,"flamenco, flamenco pop",57,https://i.scdn.co/image/ab6761610000e5eb4be9a77da91138c2d7c3198c
+4HP9KltldfmkH2M2pQozzN,Ana Carolina,1596459,"mpb, brazilian pop, nova mpb",58,https://i.scdn.co/image/ab6761610000e5eb7d67da730eb66f4e39ab1aef
+7dzq55YG3wjViqexDwiycQ,Ivete Sangalo,2165640,"axé, mpb, pagode baiano, brazilian pop",69,https://i.scdn.co/image/ab6761610000e5eb097ec2aea985413e56ff46a7
+4vKCAkbdulcqatglgbi5CG,Roberta Sá,284156,"samba, mpb, nova mpb, bossa nova",51,https://i.scdn.co/image/ab6761610000e5ebaf9a38bd97447388954926f4
+3DiDSECUqqY1AuBP8qtaIa,Alicia Keys,12409946,"r&b, neo soul",78,https://i.scdn.co/image/ab6761610000e5ebebfd16a3bca87c31c1e20576
+62a8hkfI9gLwoWyb8UlbOw,Gus Montalvo,1,,6,
+4QfSB92weZVun9VxyrAMNg,Sacha Trijueque,5,,6,
+0EjdbNR6TEafVFFpYTCPJI,Toy Hernández,13,,6,
+1prDWHt3cmTaxkA5ShY8x1,J.C. Moreno,5,,5,
+1VbWUxZTRNY2gw3qZ1tg9W,The Corrs,1223304,celtic rock,62,https://i.scdn.co/image/ab6761610000e5eb599f5b4f1ea78db47fbead4e
+3YpqDha5LBge4FeoSog8fv,Juan Habichuela Nieto,4078,flamenco,25,https://i.scdn.co/image/ab6761610000e5ebc8f96f366e7548542a9d0183
+5s9GgX51pD0YhcsQRSYlpF,Ketama,139387,"flamenco, flamenco pop",45,https://i.scdn.co/image/ab6761610000e5ebeaaf75fca4a14021d90a66c0
+4bAhZFhszWJi2NEdLuu8Li,Jeros,26806,"flamenco, flamenco pop",41,https://i.scdn.co/image/ab67616d0000b2735f9c1e8c29a2d38a7fb9327d
+1xivtET7hPQUzwgnLRQfEP,Los Chichos,294152,"flamenco, flamenco pop",56,https://i.scdn.co/image/ab6761610000e5ebd92c63d7c806bfde84de423a
+7fL1kRUb9Zv1xxgOmsuUPn,Moncho Chavea,259174,"flamenco, flamenco urbano, flamenco pop",63,https://i.scdn.co/image/ab6761610000e5eb0ff55acc4d905d65911f5b24
+5BQveHScm6btG6jfbxwyfs,Paula Toller,574913,"mpb, brazilian pop, brazilian rock",49,https://i.scdn.co/image/ab6761610000e5eba282fded0f22db2fe71b4cb0
+0MGQZNEMaEICyku3cSDrnJ,Arturo Sandoval,97794,"latin jazz, big band, jazz",43,https://i.scdn.co/image/ab6761610000e5eb2c14638a948fd25706d5b593
+5CyMmYYHMIfK9YYcKLXzO1,Gordon Goodwin's Big Phat Band,44943,"big band, jazz",36,https://i.scdn.co/image/ab6761610000e5eb809bc4a065c83bff1913aed2
+2mUI4K6csTQd3jieswcmiI,Luis Enrique,1131076,"salsa, salsa romantica, merengue",62,https://i.scdn.co/image/ab6761610000e5eb7d4a6ab36db653348ee44590
+7tLRDdqaS3HlX9cLbpY3Hl,Mario Domm,22996,,55,https://i.scdn.co/image/ab6761610000e5ebedb16671aec9d3fe8aa2d709
+75lr7uIub4Z2aPuW6JhQIq,Emanuele Ruffinengo,41,,14,
+5ofKKqlPpHWgWgML7e3BUE,Emanuele Ruffinengo and Miguel Angel Arenas,7,,14,
+3nt6yg3CKPj6mw5vYisPK5,Miguel Angel Arenas,14,,14,
+2tFojFgpu9xoQ04HsTZMDl,Hugh Padgham,231,,31,
+1aEmlVUsELFecVCxatIeR6,Peter Ries,4422,,41,https://i.scdn.co/image/ab6761610000e5eb02da42ef316ed3b8f26f1dee
+5ACyfaynUH9FpBaR8uZprQ,Arkano,60307,latin hip hop,47,https://i.scdn.co/image/ab6761610000e5eb9abcf246f01904f49265dd63
+4r1ZDYKzPt3iIjuq8LbT6X,Aczino,224482,"freestyle, mexican hip hop, latin hip hop",49,https://i.scdn.co/image/ab6761610000e5eb519e75a982630d0b9788e58e
+2WbWshgFIePeENwn6OfHUN,Olaya Alcázar,1008,,15,https://i.scdn.co/image/ab6761610000e5ebdf72801b0f7200849ec6b237
+5whb3prUMVkGYbE67pvPAs,Sandra Groove,9047,,28,https://i.scdn.co/image/ab6761610000e5eb8002619045eb1f118df7a914
+7h6MxYxbsY32fXD7nAtOz5,Langui,17397,,32,https://i.scdn.co/image/ab6761610000e5eb1b635e711cc5c9b9eb5e71cc
+3m1an5fzquhCtk4UnhmLmc,El Chojin,384629,,51,https://i.scdn.co/image/ab6761610000e5eb509c80db2c8fd4d920a004ad
+1V8oWdnA5lcwov8ehgy7n7,Shelly Sony,8427,"bossa nova, lounge",53,https://i.scdn.co/image/ab6761610000e5ebb79eb90755337279ffd9ccfe
+6HhywotTG5z1hwxFMl73fG,Cres One,2396,,18,https://i.scdn.co/image/ab6761610000e5ebf0eac35c09ae29032deb6d6f
+47xCsIZ0N4t5Lo9N8US7Ws,Argos Productions,2781,,17,https://i.scdn.co/image/ab6761610000e5eb662609ba3d2ced8295e83e45
+2w1UJL5kYJJkvjo71fQjOB,Jean Carlos Centeno,956793,vallenato,55,https://i.scdn.co/image/ab6761610000e5eb14c593ca00354e59772b1f26
+1zadl0UA8O0AYeSoMauChk,Tino JJ,7829,"flamenco urbano, flamenco, flamenco pop",36,https://i.scdn.co/image/ab6761610000e5eb3ea17168c8374bfe426e215e
+4vPrmLDojtC3tm1jXb4XfM,Joshua Dietrich,32645,,24,https://i.scdn.co/image/ab6761610000e5eb8581a88afa9d40f9d9f78738
+0eDQlGtmwyq67ApA0Yhyfl,Diego Ojeda,44141,"trova, nueva trova, singer-songwriter",39,https://i.scdn.co/image/ab6761610000e5eba5e169f6946c59a7962732cc
+6CKcB6wxbHmgUHRA5HX7Zm,Erre Violet,180,singer-songwriter,1,https://i.scdn.co/image/ab67616d0000b273cc90f72a3158c598598f7714
+5xd2Tg7Zo8755eCy8Gxkp8,Ha*Ash,9013704,latin pop,75,https://i.scdn.co/image/ab6761610000e5ebbd61cbc237687b7d0a9de8dd
+1cUpGtXcSQsovNYEZOQgOG,Nanpa Básico,2850410,"mexican hip hop, latin hip hop",74,https://i.scdn.co/image/ab6761610000e5ebf35b3932775200e07056a4b5
+0PrhwIWbqYFYyY2ZrkIWgI,Adriel Favela,1628498,"corrido, banda, corridos tumbados, sierreño, corridos bélicos, norteño, sad sierreño",64,https://i.scdn.co/image/ab6761610000e5ebdb4b38fafee978fedfc44392
+0EocQPg9ycs21gcvaVm9hh,Joss Favela,1460054,"banda, norteño, sierreño, mariachi",60,https://i.scdn.co/image/ab6761610000e5eb411d609de3bf1ab20099a809
+0zO8yNnw5GQgutcIyXfGBY,ELENA ROSE,205854,latin r&b,70,https://i.scdn.co/image/ab6761610000e5ebbffe5dcb0fbde212a4178644
+5pAru9c4ncAs3yFyfLL7gC,Julio Ramirez,256,,22,https://i.scdn.co/image/ab6761610000e5eb251a92d64569ea3ea4548712
+2sG4zTOLvjKG1PSoOyf5Ej,Brandi Carlile,870085,"folk, americana",64,https://i.scdn.co/image/ab6761610000e5ebd06d316705f62c59ba7d7fe3
+4RjamFQJNT8nVbTKXJDJgv,Kalimba,2215573,latin pop,59,https://i.scdn.co/image/ab6761610000e5eb32ed32fae929219b3924ec25
+2XRVqqdNOt779uXNFA1Fhv,Alexis Play,10169,,33,https://i.scdn.co/image/ab6761610000e5eb26408bb41992d931be04d101
+5djTjSYAitkfuLplSN60gZ,Notch,20847,"dancehall, ragga, soca, reggae",49,https://i.scdn.co/image/ab67616d0000b273e1020b2fa257d6708bde0f97
+2VZ2AVfMD8YKe6F4FucFkR,Zully Murillo,2428,traditional music,19,https://i.scdn.co/image/ab67616d0000b273bddb1ea4b320df18c1a5b784
+3SUT1jjM5hzZj9TLfLZGIP,Tego Calderón,4809361,"reggaeton, latin hip hop",71,https://i.scdn.co/image/ab6761610000e5eb145e37118900fb7f7261af16
+53F3cdrVpYq5iM4iaa6AQ3,Lil Silvio & El Vega,97302,"champeta, colombian pop, latin pop",49,https://i.scdn.co/image/ab6761610000e5eb9b9f306f76e5df12f11f1a5f
+64KEffDW9EtZ1y2vBYgq8T,Marshmello,34113924,edm,82,https://i.scdn.co/image/ab6761610000e5eb53ca421f91678c26b4f15512
+6Ji9LWzeJzDI6UzinPs8m8,Alacran Records,22,,6,https://i.scdn.co/image/ab67616d0000b2730291525c5dff493260104d0b
+5RzT7CM6Ot0sh0EHefMicV,Maffio,30592,dembow,53,https://i.scdn.co/image/ab6761610000e5eb3cd1c22d5192d0c55971e3cf
+2CIco4VLkRygEF4coO0xP1,Dennis 97,7464,"tech house, latin house",4,https://i.scdn.co/image/ab6761610000e5ebabe68f3aea084148c58227e7
+0t64OqoqDgnfJee9Z6IBOP,Jona Camacho,11128,"latin r&b, colombian pop, latin alternative, latin indie",26,https://i.scdn.co/image/ab6761610000e5eb83f8af76487b8916109a4f8a
+5AmJYBIvICxss43P05MkU8,La Ross Maria,264882,bachata,48,https://i.scdn.co/image/ab6761610000e5eb21930e922b5e6c9a2c36429d
+4NEThNYJ3WyNcJWcmpjq88,Ir Sais,87980,kizomba,54,https://i.scdn.co/image/ab6761610000e5eb60b88a369d64d5419641dddd
+3wtMPMvPtiFylbnNXF6CAj,Afro Bros,77223,"moombahton, dancehall",54,https://i.scdn.co/image/ab6761610000e5eb88b17625178d27a9d037fbbe
+7GUayRAp1ClL94DXIwMmD4,Mystro,7899,"afrobeats, afrobeat, azonto, afropop, alté",30,https://i.scdn.co/image/ab6761610000e5eb2e77dde451a86ff6eba3b7b2
+7moMwCf6s2SVquYO0rrlR8,Anna Carina,80508,bachata,38,https://i.scdn.co/image/ab6761610000e5eb2ecf9ad713db409d86c32118
+68RGQGXzit9p9xNlR5Nhtu,Oscar Ivan Lozano,49,,3,
+7caiLUNvOLW4Hs2Cb78JeY,Aymée Nuviola,13508,"son cubano, timba, latin jazz, salsa",37,https://i.scdn.co/image/ab6761610000e5eb4e63d2c0def5db9ffd75c73f
+6xaKognesdbX04PEXszfcv,The Black & White Brothers,1248,,38,https://i.scdn.co/image/ab67616d0000b273a14e5053387dda5f92d6edb1
+1ZJJTYGhxNqzqUqCLJoBbQ,Kemuel Roig,1537,latin jazz,25,https://i.scdn.co/image/ab6761610000e5eb30edc0581d00994023f092b4
+0qEGZBnqUgcVlTE7EEjR2F,Gonzalo Rubalcaba,31251,"latin jazz, jazz",32,https://i.scdn.co/image/ab6761610000e5eb980c1794e57efcb82afb2b04
+59jlthNnbmim5l9tmNA7se,Maiara & Maraisa,14215075,"sertanejo, sertanejo universitário, piseiro, arrocha",75,https://i.scdn.co/image/ab6761610000e5eb6cd71b4d9e5122a83b79c1fe
+3N4eiKlBhalVh3ezRXV99N,Majida Issa,9651,"ranchera, popular colombian music, mariachi",25,https://i.scdn.co/image/ab6761610000e5ebad664f1bb56686b237778682
+1S0Og7sspn3YyJmEcE43zD,Mayito Rivera,20824,"timba, son cubano, salsa",34,https://i.scdn.co/image/ab67616d0000b27329f97f660237cf14b5fd334f
+66pTfzDThmocl1BJ3cp7vh,Septeto Santiaguero,13159,"son cubano, timba, salsa",27,https://i.scdn.co/image/ab67616d0000b2736769d7f0a89ca59e48a2cf5f
+27mRThsZ9K1BYmz0rioxwp,Chucho Valdés,84622,"latin jazz, son cubano, jazz, nueva trova",40,https://i.scdn.co/image/ab6761610000e5eb5c7d73ff8dba91a00a338523
+1nGt9Auu0hzIZ6lI2WZWOq,Los Muñequitos De Matanzas,14717,"timba, latin jazz, son cubano",35,https://i.scdn.co/image/ab67616d0000b273be10c8269939a5ae8512b5d1
+0WmJKDQPb9P3h0cWkJ8N2m,La Conga de Los Hoyos,24,,4,
+4yOMX2Br1uxYG4IeRgqtfE,Samuel Formell,131,,9,
+1ZerS6WmqD0I2TNNfB25WH,Conjunto Son Del Guazo,6,,1,
+3IEvQoAohcGX7CdrbtIle7,Baby Rasta & Gringo,3425671,reggaeton,62,https://i.scdn.co/image/ab6761610000e5ebbc346ec065b191dc86d0272e
+1peH5tSqnYm8W6Bo3I5egE,Kat Dahlia,317791,,51,https://i.scdn.co/image/ab6761610000e5eb06d5436ba5fd95ccca0a25ff
+0QKxTtpRfKXaV42umNlmwD,El Mola,1624,"timba, salsa",22,https://i.scdn.co/image/ab6761610000e5eb2f6e278056e056444a61c64f
+3Ik2TovwBiWawoShYwa4Hh,Pedrito Martinez,27696,"latin jazz, timba, son cubano",35,https://i.scdn.co/image/ab6761610000e5eb7b1a6f0001a838a342759b79
+683jEN1S3bamBds3lIiPDk,Alexis Valdés,1279,"timba, son cubano, nueva trova, salsa",14,https://i.scdn.co/image/ab6761610000e5eb7ece9583f3295bcbf7c1e9e1
+1S0uvW1rgvtkNGma9su3fJ,Rey Ruiz,1131569,"salsa, salsa romantica, cha cha cha, merengue",60,https://i.scdn.co/image/ab6761610000e5eba4e2807371ec508548878a32
+0L3PoFZZQ0WyS7HgnOdd1o,"Rafael ""Pollo"" Brito",110203,bolero,40,https://i.scdn.co/image/ab6761610000e5ebb7b238552b208c126d7d03c3
+5cj1zHnp57EyP2MlDsczYP,Lourdes Nuviola,118,"bolero, latin jazz, son cubano",2,https://i.scdn.co/image/ab67616d0000b273eac0ba3df7f66be01d61aeee
+0swLXFWLqieTUTVW3OeLGI,Capitan V,46,salsa romantica,24,https://i.scdn.co/image/ab67616d0000b2734cfbf41dfd5a9246dfaec3d5
+4lFL1u6Cu3OxFe5idzZjJg,Álvaro Tadeo,100,"timba, salsa",3,https://i.scdn.co/image/ab6761610000e5eb87fbd9073980fd654f90150d
+28wtFivtmdKxFRfu57AhBe,Cimafunk,99795,,50,https://i.scdn.co/image/ab6761610000e5eb858f519e6bbcb456a1e2b7e7
+0haZhu4fFKt0Ag94kZDiz2,Sofía Reyes,3135428,latin pop,63,https://i.scdn.co/image/ab6761610000e5eb930361691d9b29502bd2632d
+59MLbXG0jLVwJup3KAd6m1,Mr.Rain,1214654,,55,https://i.scdn.co/image/ab6761610000e5eb29c68c6ccc59cfbaa012221f
+6mPoLPA14GtmeZgz05EAgG,3KMKZ,151,,12,https://i.scdn.co/image/ab6761610000e5eb739c73bdc1739357983f8e5a
+6slyJwua5e5GuhuP82sTHR,Alex Campos,2160411,"christian, worship",64,https://i.scdn.co/image/ab6761610000e5eb712ec02b8119a82f53798349
+13yrUyUFpld9jQtmQkqR5K,Pablo Motos,437,,16,https://i.scdn.co/image/ab67616d0000b27365d8df32257f867c9f344763

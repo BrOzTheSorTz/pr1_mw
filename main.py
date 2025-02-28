@@ -9,7 +9,7 @@ if __name__ == "__main__":
     max_deep = 2
     scrapper = DataScraper(spotify,max_artist,max_deep)
 
-    scrapper.search_collaborator_deep("ROSALÍA")
+    scrapper.search_collaborator_deep("Melendi")
 
 
 
