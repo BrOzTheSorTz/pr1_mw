@@ -14,13 +14,13 @@ class DataScraper:
 
     def obtain_collaborators(self, name_artist):
         """Dado el nombre de un artista, nos devuelve los colaboradores de éste"""
-        artist = self.spotify.search_artist(name_artist)
+        artist_node = self.spotify.search_artist(name_artist)
 
         # Guardamos el artista en el fichero
-        self.send_nodes_file(artist)
+        self.send_nodes_file(artist_node)
 
         collaborators = {}
-        albums = self.spotify.get_artist_albums(artist["id"])
+        albums = self.spotify.get_artist_albums(artist_node["id"])
 
         for album in albums:
             tracks = self.spotify.get_album_tracks(album['id'])
@@ -32,7 +32,7 @@ class DataScraper:
                         collaborators[artist_id] = artist_name
 
         # Guardamos los datos de los colaboradores en el fichero de aristas
-        self.send_edges_file(artist['id'],collaborators)
+        self.send_edges_file(artist_node['id'],collaborators)
 
         return collaborators  # Devuelve el diccionario de colaboradores
 
